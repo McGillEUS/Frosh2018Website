@@ -41,7 +41,7 @@ class Index extends React.Component {
 
         <div id="main">
 
-          <section id="intro" className="main">
+          <section id="intro" className="main special">
             <div className="spotlight">
               <div className="content">
                 <header className="major">
@@ -60,7 +60,6 @@ class Index extends React.Component {
                   <li><Link to="/generic" className="button">Link to generic page</Link></li>
                 </ul>
               </div>
-              <span className="image"><img src={pic01} alt="" /></span>
             </div>
           </section>
 
@@ -82,8 +81,7 @@ class Index extends React.Component {
           <section id="cta" className="main special">
             <header className="major">
               <h2>Pics/faq or wtv</h2>
-              <p>Donec imperdiet consequat consequat. Suspendisse feugiat congue<br />
-              posuere. Nulla massa urna, fermentum eget quam aliquet.</p>
+              <p>text</p>
             </header>
             <footer className="major">
               <ul className="actions">
