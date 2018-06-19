@@ -11,11 +11,11 @@ const Footer = (props) => (
             <h2>McGill EUS Frosh 2018</h2>
             <dl className="alt">
                 <dt>Address</dt>
-                <dd>1234 Somewhere Road &bull; Nashville, TN 00000 &bull; USA</dd>
+                <dd>1234  &bull; Montreal, CA</dd>
                 <dt>Phone</dt>
-                <dd>(000) 000-0000 x 0000</dd>
+                <dd>(514)idk</dd>
                 <dt>Email</dt>
-                <dd><a href="#">information@untitled.tld</a></dd>
+                <dd><a href="#">oweek.communications@mcgilleus.ca</a></dd>
             </dl>
             <ul className="icons">
                 <li><a href="#" className="icon fa-snapchat alt"><span className="label">Twitter</span></a></li>
