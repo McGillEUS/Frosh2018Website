@@ -1,10 +1,11 @@
 import React from 'react'
 // import {jQuery as $} from './fullcalendar/lib/jquery.min.js'
 // import jQuery from './fullcalendar/lib/jquery.min.js'
-import moment from './fullcalendar/lib/moment.min.js'
-import fullcalendar from './fullcalendar/fullcalendar.js'
+// import moment from './fullcalendar/lib/moment.min.js'
+// import fullcalendar from './fullcalendar/fullcalendar.js'
 
 import jQuery from 'jquery'
+import fullcalendar from 'fullcalendar'
 
 const Calendar = (props) => (
   <div>
