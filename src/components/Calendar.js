@@ -6,10 +6,11 @@ import React from 'react'
 
 import jQuery from 'jquery'
 import fullcalendar from 'fullcalendar'
+import fullcalendarcss from './fullcalendar/fullcalendar.css'
 
 const Calendar = (props) => (
   <div>
-  <link rel='stylesheet' href='fullcalendar/fullcalendar.css' />
+  {/* <link rel='stylesheet' href='fullcalendar/fullcalendar.css' /> */}
   {/* <script src='fullcalendar/lib/jquery.min.js'></script> */}
   {/* <script src='fullcalendar/lib/moment.min.js'></script> */}
   {/* <script src='fullcalendar/fullcalendar.js'></script> */}
@@ -19,10 +20,6 @@ const Calendar = (props) => (
     jQuery('#calendar').fullCalendar({
             googleCalendarApiKey: 'AIzaSyDVWIu3txLG737VZuWruieFsrmZmORARTU',
 
-            /*events : {
-              googleCalendarId: 'mcgilleus.ca_pa4lbns0ipejjrvi0cn6tlknck@group.calendar.google.com',
-                className: 'frosh-day-cal-events',
-            },*/
             eventSources: [
             {
                 googleCalendarId: 'mcgilleus.ca_pa4lbns0ipejjrvi0cn6tlknck@group.calendar.google.com',
