@@ -7,6 +7,7 @@ import Waypoint from 'react-waypoint'
 import Header from '../components/Header'
 import Nav from '../components/Nav'
 import pic01 from '../assets/images/pic01.jpg'
+import Calendar from '../components/Calendar'
 
 class Index extends React.Component {
   constructor(props) {
@@ -66,6 +67,7 @@ class Index extends React.Component {
           <section id="first" className="main special">
             <header className="major">
               <h2>Schedule</h2>
+              <Calendar />
             </header>
 
             
