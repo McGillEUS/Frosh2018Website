@@ -81,7 +81,7 @@
   }
   
   
-  thead {
+  thead { //days bar
       z-index: 2;
       background: white;
   
@@ -132,19 +132,60 @@
     background: #00B4FC !important;
     color: white;
     text-align: center;
-    font-size: 70%;
+    font-size: 1.6vmin;
     z-index: 3;
     padding: 0.5rem;
     overflow-x: hidden;
     transition: all 0.2s;
     cursor: pointer;
+
+    
+
   }
 
   .discover {
     @extend .event;
     background: rgb(148, 148, 148) !important;
-
   }
+  .mertw {
+      @extend .event;
+      background: rgb(231, 114, 114) !important;
+  }
+  .group {
+      @extend .event;
+      background: red !important;
+  }
+  .concert {
+      @extend .event;
+      background: rgb(139, 26, 26) !important;
+  }
+  .park {
+      @extend .event;
+      background: rgb(97, 203, 245) !important;
+  }
+  .crawl {
+      @extend .event;
+      background: rgb(50, 137, 172) !important;
+  }
+  .eng-arts {
+    @extend .event;
+    background: rgb(6, 89, 122) !important;
+    }
+  .beach {
+    @extend .event;
+    background: rgb(249, 252, 70) !important;
+    }
+
+    .chill {
+        @extend .event;
+        background: rgb(153, 155, 54) !important;
+        }
+
+    .hang {
+        @extend .event;
+        background: rgb(96, 97, 51) !important;
+        }
+
 
 
 

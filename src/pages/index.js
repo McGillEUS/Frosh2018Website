@@ -71,6 +71,11 @@ class Index extends React.Component {
               <Schedule> </Schedule>
           </section>
 
+          <section id="first" className="main special">
+              <h2>Schedule</h2>
+
+          </section>
+
         </div>
 
       </div>
