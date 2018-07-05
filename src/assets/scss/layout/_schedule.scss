@@ -1,10 +1,15 @@
+
+  
+  .offset {
+  
+  }
   
   .outer {
     position:relative;
   }
   
   .calendar {
-      margin: 0 auto;
+    margin: 0 auto;
     max-width: 1280px;
     min-width: 500px;
   
@@ -15,7 +20,7 @@
   
     overflow-x: hidden;
     overflow-y: scroll;
-      max-width: 1280px;
+    max-width: 1280px;
     height: 500px;
     border-radius: 8px;
   }
@@ -31,9 +36,14 @@
   
   }
   
-
   
- 
+  
+  header h1 {
+   font-size: 1.25rem;
+   text-align: center;
+   font-weight: normal;
+  
+  }
   tbody {
       position: relative;
     top: 100px;
@@ -111,21 +121,40 @@
   }
   
   
+  .checkbox {
+     display: none;
+  }
   
+ 
   
   .event {
-    background: #00B4FC;
+    background: #00B4FC !important;
     color: white;
-    border-radius: 2px;
     text-align: left;
     font-size: 0.875rem;
-    z-index: 2;
+    z-index: 3;
     padding: 0.5rem;
     overflow-x: hidden;
     transition: all 0.2s;
     cursor: pointer;
   }
-  
+
+  .discover {
+    @extend .event;
+    background: rgb(148, 148, 148) !important;
+
+  }
+
+
+
+
+
+
+
+
+
+
+  /**
   .event:hover {
     box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
     background: #00B4FC;
@@ -133,7 +162,7 @@
   
   .event.double {
     height: 200%;
-  }
+  } */
   
   /**
   thead {
@@ -152,7 +181,7 @@
   
   
   
- 
+  
   
   button.secondary {
     border: 1px solid rgba(0, 0, 0, 0.1);
@@ -176,7 +205,7 @@
     outline: 0;
   }
   
-
+ 
   
   .today {
     color: red;
