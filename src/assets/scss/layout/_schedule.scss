@@ -45,7 +45,7 @@
   
   }
   tbody {
-      position: relative;
+    position: relative;
     top: 100px;
   }
   table {
@@ -65,7 +65,8 @@
     font-weight: 500;
     color: rgba(0, 0, 0, 0.5);
     padding: 0.25rem 0;
-    text-align: center;
+    padding-right: 5rem;
+    text-align: left;
     border: 0;
     position: relative;
     top: -12px;
@@ -76,13 +77,13 @@
     font-size: 1rem;
     font-weight: bold;
     color: rgba(0, 0, 0, 0.9);
-    padding: 1rem;
+    padding: 0.3rem;
   }
+  
   
   thead {
       z-index: 2;
       background: white;
-      border-bottom: 2px solid #ddd;
   
   }
   
@@ -130,8 +131,8 @@
   .event {
     background: #00B4FC !important;
     color: white;
-    text-align: left;
-    font-size: 0.875rem;
+    text-align: center;
+    font-size: 70%;
     z-index: 3;
     padding: 0.5rem;
     overflow-x: hidden;
