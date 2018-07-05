@@ -33,12 +33,7 @@
   
 
   
-  header h1 {
-   font-size: 1.25rem;
-   text-align: center;
-   font-weight: normal;
-  
-  }
+ 
   tbody {
       position: relative;
     top: 100px;
@@ -116,30 +111,7 @@
   }
   
   
-  .checkbox {
-     display: none;
-  }
   
-  .checkbox + label {
-      border: 0;
-      outline: 0;
-      width: 100px;
-      heigth: 100px;
-      background: white;
-      color: transparent;
-      display:block;
-    display: none;
-  }
-  
-  .checkbox:checked + label {
-      border: 0;
-      outline: 0;
-      width: 100%;
-      heigth: 100%;
-      background: red;
-      color: transparent;
-      display: inline-block;
-  }
   
   .event {
     background: #00B4FC;
@@ -180,14 +152,7 @@
   
   
   
-  td:hover:after {
-    content: "+";
-    vertical-align: middle;
-    font-size: 1.875rem;
-    font-weight: 100;
-    color: rgba(0, 0, 0, 0.5);
-    position: absolute;
-  }
+ 
   
   button.secondary {
     border: 1px solid rgba(0, 0, 0, 0.1);
@@ -211,9 +176,7 @@
     outline: 0;
   }
   
-  tr td:nth-child(2), tr td:nth-child(3), .past {
-    background: #fafafa;
-  }
+
   
   .today {
     color: red;

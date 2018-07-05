@@ -16,8 +16,7 @@ class Generic extends React.Component {
         <HeaderGeneric />
         <div id="main">
           <section id="content" className="main">
-            <h2>content</h2>
-            <p>text</p>
+            <h2>come back soon!</h2>
           </section>
         </div>
 

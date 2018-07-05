@@ -7,8 +7,7 @@ import Waypoint from 'react-waypoint'
 import Header from '../components/Header'
 import Nav from '../components/Nav'
 import Schedule from '../components/Schedule'
-import pic01 from '../assets/images/pic01.jpg'
-import Calendar from '../components/Calendar'
+
 
 class Index extends React.Component {
   constructor(props) {
@@ -47,9 +46,10 @@ class Index extends React.Component {
             <div className="spotlight">
               <div className="content">
                 <header className="major">
-                  <h2>General info abt frosh</h2>
+                  <h2>General Information</h2>
                 </header>
-                <p>Welcome to McGill Engineering! We here at the Engineering 
+                <p>
+                  Welcome to McGill Engineering! We here at the Engineering 
                   Undergraduate Society (EUS) would like to wish you a warm 
                   welcome to your next three or four (or more) years at McGill. 
                   The EUS is the student-run representative body of undergraduate 
@@ -57,9 +57,9 @@ class Index extends React.Component {
                   are automatically a member of the EUS, so we’re excited to meet you! ...
 
                   **VIDEO**
-                  </p>
+                </p>
                 <ul className="actions">
-                  <li><Link to="/generic" className="button">Link to generic page</Link></li>
+                  <li><Link to="/generic" className="button special">Register</Link></li>
                 </ul>
               </div>
             </div>
@@ -69,28 +69,6 @@ class Index extends React.Component {
               <h2>Schedule</h2>
 
               <Schedule> </Schedule>
-
-          
-          </section>
-
-          <section id="second" className="main special">
-            <header className="major">
-              <h2>Sponsors</h2>
-              <p>sponsor info and text </p>
-            </header>
-          </section>
-
-          <section id="cta" className="main special">
-            <header className="major">
-              <h2>Pics/faq or wtv</h2>
-              <p>text</p>
-            </header>
-            <footer className="major">
-              <ul className="actions">
-                <li><Link to="/generic" className="button special">link to generic</Link></li>
-                <li><Link to="/generic" className="button">Link to generic</Link></li>
-              </ul>
-            </footer>
           </section>
 
         </div>
