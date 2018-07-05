@@ -7,9 +7,7 @@ const Schedule = (props) => (
     <tr>
       <th></th>
       <th>
-        <span class="day">1</span>
-        <span class="long">Monday</span>
-        <span class="short">Mon</span>
+        <span class="long"> &nbsp;&nbsp; Monday</span>
       </th>
       <th>
         <span class="day">2</span>

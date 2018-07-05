@@ -8,6 +8,7 @@ import Header from '../components/Header'
 import Nav from '../components/Nav'
 import Schedule from '../components/Schedule'
 import pic01 from '../assets/images/pic01.jpg'
+import Calendar from '../components/Calendar'
 
 class Index extends React.Component {
   constructor(props) {
@@ -66,9 +67,10 @@ class Index extends React.Component {
 
           <section id="first" className="main special">
               <h2>Schedule</h2>
+
               <Schedule> </Schedule>
 
-            
+          
           </section>
 
           <section id="second" className="main special">
