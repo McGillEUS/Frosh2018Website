@@ -2,106 +2,84 @@ import React from 'react'
 
 
 const Schedule = (props) => (
-<table>
+<div class="calendar">
+  
+
+  
+  <div class="outer">
+
+  
+  <table>
   <thead>
     <tr>
-      <th></th>
-      <th>
-        <span class="long"> &nbsp;&nbsp; Monday</span>
-      </th>
-      <th>
-        <span class="day">2</span>
-        <span class="long">Tuesday</span>
-        <span class="short">Tue</span>
-      </th>
-      <th>
-        <span class="day">3</span>
-        <span class="long">Wendsday</span>
-        <span class="short">We</span>
-      </th>
-      <th>
-        <span class="day">4</span>
-        <span class="long">Thursday</span>
-        <span class="short">Thur</span>
-      </th>
-      <th>
-        <span class="day active">5</span>
-        <span class="long">Friday</span>
-        <span class="short">Fri</span>
-      </th>
-      <th>
-        <span class="day">6</span>
-        <span class="long">Saturday</span>
-        <span class="short">Sat</span>
-      </th>
-      <th>
-        <span class="day">7</span>
-        <span class="long">Sunday</span>
-        <span class="short">Sun</span>
-      </th>
+      <th class="headcol"></th>
+      <th>Mon</th>
+      <th>Tue</th>
+      <th>Wed</th>
+      <th>Thu</th>
+      <th>Fri</th>
+      <th>Sat</th>
+      <th>Sun</th>
     </tr>
   </thead>
+  </table>
+
+<div class="wrap"> 
+  <table class="offset">
+
   <tbody>
     <tr>
-      <td class="hour" rowspan="4"><span>1:00</span></td>
+      <td class="headcol"></td>
       <td></td>
       <td></td>
-      <td></td>
+      <td class="past"></td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
-    
-    
-   
     <tr>
-      <td class="hour" rowspan="4"><span>2:00</span></td>
+      <td class="headcol">6:00</td>
       <td></td>
       <td></td>
-      <td></td>
+      <td class="past"></td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
-    
-    
     <tr>
-      <td class="hour" rowspan="4"><span>3:00</span></td>
+      <td class="headcol"></td>
       <td></td>
       <td></td>
-      <td></td>
+      <td class="past"></td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
-    
     <tr>
-      <td class="hour" rowspan="4"><span>4:00</span></td>
+      <td class="headcol">7:00</td>
       <td></td>
       <td></td>
-      <td></td>
+      <td class="past"></td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
-    
     <tr>
-      <td class="hour" rowspan="4"><span>5:00</span></td>
+      <td class="headcol"></td>
       <td></td>
       <td></td>
-      <td></td>
+      <td class="now"></td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
-    
     <tr>
-      <td class="hour" rowspan="4"><span>6:00</span></td>
+      <td class="headcol">8:00</td>
       <td></td>
       <td></td>
       <td></td>
@@ -110,20 +88,18 @@ const Schedule = (props) => (
       <td></td>
       <td></td>
     </tr>
-    
     <tr>
-      <td class="hour" rowspan="4"><span>7:00</span></td>
+      <td class="headcol"></td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
+      <td><div class="event double"><input id="check" type="checkbox" class="checkbox" /><label for="check"></label>8:30–9:30 Yoga</div></td>
       <td></td>
       <td></td>
     </tr>
-    
     <tr>
-      <td class="hour" rowspan="4"><span>8:00</span></td>
+      <td class="headcol">9:00</td>
       <td></td>
       <td></td>
       <td></td>
@@ -132,10 +108,201 @@ const Schedule = (props) => (
       <td></td>
       <td></td>
     </tr>
-    
+    <tr>
+      <td class="headcol"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="headcol">10:00</td>
+      <td></td>
+      <td></td>
+      <td><div class="event double"><input id="check" type="checkbox" class="checkbox" /><label for="check"></label>10:00–11:00 Meeting</div></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="headcol"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="headcol">11:00</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="headcol"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="headcol">12:00</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="headcol"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="headcol">13:00</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="headcol"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="headcol">14:00</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="headcol"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="headcol">15:00</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="headcol"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="headcol">16:00</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="headcol"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="headcol">17:00</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="headcol"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="headcol">18:00</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="headcol"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
-
+</div>
+</div>
+</div>
 
 )
 
