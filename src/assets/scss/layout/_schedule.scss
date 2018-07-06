@@ -147,19 +147,19 @@
   }
   .mertw {
       @extend .event;
-      background: rgb(231, 114, 114) !important;
+      background:#ff7979 !important;
   }
   .group {
       @extend .event;
-      background: red !important;
+      background: #EA2027 !important;
   }
   .concert {
       @extend .event;
-      background: rgb(139, 26, 26) !important;
+      background: #b71540 !important;
   }
   .park {
       @extend .event;
-      background: rgb(97, 203, 245) !important;
+      background:#48dbfb !important;
   }
   .crawl {
       @extend .event;
@@ -171,41 +171,41 @@
     }
   .beach {
     @extend .event;
-    background: rgb(229, 231, 103) !important;
+    background: #f1c40f !important;
     }
 
     .chill {
         @extend .event;
-        background: rgb(153, 155, 54) !important;
+        background: #f39c12 !important;
         }
 
     .hang {
         @extend .event;
-        background: rgb(96, 97, 51) !important;
+        background: #d35400 !important;
         }
     .breakfast {
         @extend .event;
-        background: rgb(126, 172, 100) !important;
+        background: #b8e994 !important;
         }
     .design {
         @extend .event;
-        background: rgb(81, 116, 62) !important;
+        background: #78e08f !important;
         }
     .food {
         @extend .event;
-        background: rgb(55, 97, 32) !important;
+        background: #2ecc71 !important;
         }
     .scunt {
         @extend .event;
-        background: rgb(46, 128, 2) !important;
+        background: #44bd32 !important;
         }
     .ultimate {
         @extend .event;
-        background: rgb(44, 92, 18) !important;
+        background: #009432 !important;
         }
     .concert2 {
         @extend .event;
-        background: rgb(61, 117, 30) !important;
+        background: #218c74 !important;
     }
 
 
