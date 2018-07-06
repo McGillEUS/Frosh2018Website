@@ -17,7 +17,6 @@ const Footer = (props) => (
                 <dd><a href="#">oweek.communications@mcgilleus.ca</a></dd>
             </dl>
             <ul className="icons">
-                <li><a href="#" className="icon fa-snapchat alt"><span className="label">Twitter</span></a></li>
                 <li><a href="https://www.facebook.com/EngineeringFrosh/" className="icon fa-facebook alt"><span className="label">Facebook</span></a></li>
                 <li><a href="https://www.instagram.com/EngineeringFrosh/" className="icon fa-instagram alt"><span className="label">Instagram</span></a></li>
             </ul>

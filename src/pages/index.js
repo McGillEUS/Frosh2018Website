@@ -66,6 +66,8 @@ class Index extends React.Component {
                  and email us any time at oweek.communications@mcgilleus.ca. Stay tuned for the 
                  opening of registration in early August!
                 </p>
+
+                <p>Check out the trailer for <a href = "https://youtu.be/ZZYzRyheZG4"> Froshed Ashore </a> 😎 💯 </p>
                 <ul className="actions">
                   <li><Link to="/generic" className="button special">Register</Link></li>
                 </ul>
