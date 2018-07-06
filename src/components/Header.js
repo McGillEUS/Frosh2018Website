@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'gatsby-link'
 
 import logo from '../assets/images/logo.svg';
-import froshed_final from '../assets/images/froshed_final.png';
+import froshed_final from '../assets/images/frosh.svg';
 
 const Header = (props) => (
     <header id="header" className="alt">

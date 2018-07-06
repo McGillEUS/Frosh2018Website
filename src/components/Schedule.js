@@ -370,6 +370,17 @@ const Schedule = (props) => (
       <td></td>
       <td className="concert2"></td>
     </tr>
+
+    <tr>
+      <td class="headcol">1:30</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 </div>

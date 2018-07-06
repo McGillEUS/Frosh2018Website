@@ -55,8 +55,6 @@ class Index extends React.Component {
                   The EUS is the student-run representative body of undergraduate 
                   students in the Faculty of Engineering. As an undergraduate engineer you 
                   are automatically a member of the EUS, so we’re excited to meet you! ...
-
-                  **VIDEO**
                 </p>
                 <ul className="actions">
                   <li><Link to="/generic" className="button special">Register</Link></li>
@@ -71,10 +69,6 @@ class Index extends React.Component {
               <Schedule> </Schedule>
           </section>
 
-          <section id="first" className="main special">
-              <h2>Schedule</h2>
-
-          </section>
 
         </div>
 
