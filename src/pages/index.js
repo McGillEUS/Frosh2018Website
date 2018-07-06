@@ -49,12 +49,22 @@ class Index extends React.Component {
                   <h2>General Information</h2>
                 </header>
                 <p>
-                  Welcome to McGill Engineering! We here at the Engineering 
-                  Undergraduate Society (EUS) would like to wish you a warm 
-                  welcome to your next three or four (or more) years at McGill. 
-                  The EUS is the student-run representative body of undergraduate 
-                  students in the Faculty of Engineering. As an undergraduate engineer you 
-                  are automatically a member of the EUS, so we’re excited to meet you! ...
+                Welcome to McGill Engineering! We here at the Engineering
+                 Undergraduate Society (EUS) would like to wish you a warm 
+                 welcome to your next three or four (or more) years at McGill. 
+                 The EUS is the student-run representative body of undergraduate 
+                 students in the Faculty of Engineering. As an undergraduate 
+                 engineer you are automatically a member of the EUS, so we’re excited 
+                 to meet you! Your first chance to get involved in the EUS will be at 
+                 Engineering Frosh 2018 - Froshed Ashore. Frosh is the largest event of 
+                 the Fall semester, with the overwhelming majority of the 800 new engineering 
+                 students taking part. The week is jam packed with events (see the schedule below) 
+                 and it’s where you’ll make many of your new friends at McGill.
+                 The team of Engineering Frosh Coordinators, composed entirely of engineering 
+                 students, has been working hard all summer to bring you the most exciting week 
+                 possible. Check out our event trailer and our Facebook/Instagram pages below, 
+                 and email us any time at oweek.communications@mcgilleus.ca. Stay tuned for the 
+                 opening of registration in early August!
                 </p>
                 <ul className="actions">
                   <li><Link to="/generic" className="button special">Register</Link></li>
