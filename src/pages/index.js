@@ -69,7 +69,7 @@ class Index extends React.Component {
 
                 <p>Check out the trailer for <a href = "https://youtu.be/ZZYzRyheZG4"> Froshed Ashore </a> 😎 💯 </p>
                 <ul className="actions">
-                  <li><Link to="/generic" className="button special">Register</Link></li>
+                  <li><Link to="#" className="button special">Registration coming soon!</Link></li>
                 </ul>
               </div>
             </div>
