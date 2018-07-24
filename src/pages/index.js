@@ -7,6 +7,8 @@ import Waypoint from 'react-waypoint'
 import Header from '../components/Header'
 import Nav from '../components/Nav'
 import Schedule from '../components/Schedule'
+import Sponsors from '../components/Sponsors'
+
 
 
 class Index extends React.Component {
@@ -79,6 +81,14 @@ class Index extends React.Component {
               <h2>Schedule</h2>
 
               <Schedule> </Schedule>
+          </section>
+
+          <section id="first" className="main special">
+              <h2>Sponsors</h2>
+
+              <Sponsors></Sponsors>
+
+          
           </section>
 
 
