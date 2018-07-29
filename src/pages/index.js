@@ -88,7 +88,12 @@ class Index extends React.Component {
 
               <Sponsors></Sponsors>
 
-          
+          </section>
+
+          <section id="first" className="main special">
+              <h2>Map</h2>
+
+
           </section>
 
 
