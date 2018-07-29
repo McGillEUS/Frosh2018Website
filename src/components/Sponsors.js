@@ -12,9 +12,13 @@ import lpg from '../assets/images/sponsor-logos/LPG_logo.png';
 import oap from '../assets/images/sponsor-logos/oap_logo.jpg';
 import piranha from '../assets/images/sponsor-logos/piranha_bar_logo.png';
 import ssmu from '../assets/images/sponsor-logos/SSMUSSC Logo-2.png';
-import vua from '../assets/images/sponsor-logos/vua.jpg';
+import vua from '../assets/images/sponsor-logos/vua-2.jpg';
 import james from '../assets/images/sponsor-logos/james.jpg';
-import cafe from '../assets/images/sponsor-logos/cafe campus frinal.jpg';
+import cafe from '../assets/images/sponsor-logos/cafe.jpg';
+import vader from '../assets/images/sponsor-logos/vader.jpg';
+import freshii from '../assets/images/sponsor-logos/freshii.jpg';
+import eusit from '../assets/images/sponsor-logos/eusit.jpg';
+import frost from '../assets/images/sponsor-logos/frost.jpg';
 import pic06 from '../assets/images/pic06.jpg';
 
 
@@ -43,6 +47,14 @@ const Sponsors = (props) => (
         <img src={vua} style={{ margin: '3rem 2rem', maxWidth: 100 }} alt=""/>
         <img src={james} style={{ margin: '3rem 2rem', maxWidth: 100 }} alt=""/>
         <img src={cafe} style={{ margin: '3rem 2rem', maxWidth: 100 }} alt=""/>
+        <img src={vader} style={{ margin: '4rem 2rem', maxWidth: 100 }} alt=""/>
+        <img src={freshii} style={{ margin: '3rem 2rem', maxWidth: 100 }} alt=""/>
+    
+        <img src={eusit} style={{ margin: '3rem 2rem', maxWidth: 100 }} alt=""/>
+        <img src={frost} style={{ margin: '4rem 2rem', maxWidth: 100 }} alt=""/>
+
+
+
 
 
 
