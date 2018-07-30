@@ -34,7 +34,7 @@ const Sponsors = (props) => (
         <img src={epts} style={{ margin: '3rem 2rem', maxWidth: 100 }} alt="" />
         <img src={med} style={{ margin: '5rem 2rem', maxWidth: 100 }} alt="" />
         <img src={coc_lgt_eng} style={{ margin: '3rem 2rem', maxWidth: 100 }} alt=""/>
-        <img src={evenko} style={{ margin: '3rem 2rem', maxWidth: 100 }} alt=""/>
+        <img src={evenko} style={{ margin: '4rem 2rem', maxWidth: 100 }} alt=""/>
 
         <img src={foodchain} style={{ margin: '4rem 2rem', maxWidth: 100 }} alt=""/>
         <img src={gstore} style={{ margin: '3rem 2rem', maxWidth: 100 }} alt=""/>

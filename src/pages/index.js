@@ -69,9 +69,13 @@ class Index extends React.Component {
                  opening of registration in early August!
                 </p>
 
+                <div class="video-responsive">
+    <iframe width="420" height="315" src="https://youtu.be/ZZYzRyheZG4" frameborder="0" allowfullscreen></iframe>
+</div>
+
                 <p>Check out the trailer for <a href = "https://youtu.be/ZZYzRyheZG4"> Froshed Ashore </a> 😎 💯 </p>
                 <ul className="actions">
-                  <li><Link to="#" className="button special">Registration coming soon!</Link></li>
+                  <li><Link to="generic" className="button special">Registration coming soon!</Link></li>
                 </ul>
               </div>
             </div>
