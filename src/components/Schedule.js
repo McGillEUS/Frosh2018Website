@@ -13,13 +13,13 @@ const Schedule = (props) => (
   <thead>
     <tr>
       <th class="headcol"></th>
-      <th>Mon</th>
-      <th>Tue</th>
-      <th>Wed</th>
-      <th>Thu</th>
-      <th>Fri</th>
-      <th>Sat</th>
-      <th>Sun</th>
+      <th>Mon &bull; 8/27</th>
+      <th>Tue &bull; 8/28</th>
+      <th>Wed &bull; 8/29</th>
+      <th>Thu &bull; 8/30</th>
+      <th>Fri &bull; 8/31</th>
+      <th>Sat &bull; 9/1</th>
+      <th>Sun &bull; 9/2</th>
     </tr>
   </thead>
   </table>

@@ -17,9 +17,17 @@ const Nav = (props) => (
                     <a href="#">Schedule</a>
                 </Scroll>
             </li>
+
+            <li>
+                <Scroll type="id" element="second">
+                    <a href="#">Sponsors</a>
+                </Scroll>
+            </li>
+
             <li>
             <Link to="leaders">Leaders & Coords</Link>
             </li>
+
             <li>
             <Link to="faq">FAQ</Link>
             </li>
