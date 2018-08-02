@@ -28,7 +28,7 @@ class Leaders extends React.Component {
 export default Leaders
 
 export const pageQuery = graphql`
-  query GenericQuery {
+  query LeaderQuery {
     site {
       siteMetadata {
         title

@@ -69,10 +69,6 @@ class Index extends React.Component {
                  opening of registration in early August!
                 </p>
 
-                <div class="video-responsive">
-    <iframe width="420" height="315" src="https://youtu.be/ZZYzRyheZG4" frameborder="0" allowfullscreen></iframe>
-</div>
-
                 <p>Check out the trailer for <a href = "https://youtu.be/ZZYzRyheZG4"> Froshed Ashore </a> 😎 💯 </p>
                 <ul className="actions">
                   <li><Link to="generic" className="button special">Registration coming soon!</Link></li>
@@ -81,11 +77,7 @@ class Index extends React.Component {
             </div>
           </section>
 
-          <section id="first" className="main special">
-              <h2>Schedule</h2>
-
-              <Schedule> </Schedule>
-          </section>
+          
 
           <section id="first" className="main special">
               <h2>Sponsors</h2>
@@ -94,11 +86,7 @@ class Index extends React.Component {
 
           </section>
 
-          <section id="first" className="main special">
-              <h2>Map</h2>
-
-
-          </section>
+        
 
 
         </div>

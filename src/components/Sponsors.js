@@ -4,7 +4,7 @@ import coc_lgt_eng from '../assets/images/sponsor-logos/coc_lgt_eng.png';
 import epts from '../assets/images/sponsor-logos/Epts-logo.png';
 import med from '../assets/images/sponsor-logos/Copy of Med Pizza Logo.png';
 import cube from '../assets/images/sponsor-logos/Cube_logo.png';
-import evenko from '../assets/images/sponsor-logos/evenko.jpg';
+import evenko from '../assets/images/sponsor-logos/Evenko.jpg';
 import foodchain from '../assets/images/sponsor-logos/Foodchain_logo.jpg';
 import gstore from '../assets/images/sponsor-logos/gstore.png';
 import hinnawi from '../assets/images/sponsor-logos/Hinnawi logo.png';
