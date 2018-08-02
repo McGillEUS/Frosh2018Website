@@ -50,7 +50,7 @@ class Index extends React.Component {
                 <header className="major">
                   <h2>General Information</h2>
                 </header>
-                <p>
+                <p id = "text">
                 Welcome to McGill Engineering! We here at the Engineering
                  Undergraduate Society (EUS) would like to wish you a warm 
                  welcome to your next three or four (or more) years at McGill. 
@@ -68,27 +68,40 @@ class Index extends React.Component {
                  and email us any time at oweek.communications@mcgilleus.ca. Stay tuned for the 
                  opening of registration in early August!
                 </p>
+                <div id="btn">
+                  <ul className="actions">
+                    <li><Link to="#" className="button "> 🙆‍♂️ Coords & Leaders 🙆</Link></li>
+                  </ul>
+                </div>
+
+              <div id="btn">
+                <ul className="actions">
+                  <li><Link to="#" className="button ">✏️ Frequently Asked Questions 📒</Link></li>
+                </ul>
+              </div>
 
               <div className = "responsive">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZZYzRyheZG4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
               </div>
+
                 <ul className="actions">
                   <li><Link to="#" className="button special">Registration coming soon!</Link></li>
                 </ul>
+
               </div>
             </div>
           </section>
 
           
 
-          <section id="first" className="main special">
+          <section id="second" className="main special">
               <h2>Sponsors</h2>
 
               <Sponsors></Sponsors>
 
           </section>
 
-          <section id="first" className="main special">
+          <section id="third" className="main special">
               <h2>Map</h2>
               <div className = "responsive">
                 <iframe  src="https://www.google.com/maps/d/embed?mid=1RaEaAYk3DDxatIi5vHlH-9npIWr95XNi" width="640" height="480"></iframe>
@@ -97,9 +110,7 @@ class Index extends React.Component {
 
 
 
-        
-
-
+    
         </div>
 
       </div>
