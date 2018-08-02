@@ -10,6 +10,8 @@
 		&.special {
 			text-align: center;
 		}
+
+		
 	}
 
 	header {
@@ -37,6 +39,7 @@
 			p {
 				font-size: 1.25em;
 				letter-spacing: _font(letter-spacing);
+				text-decoration-color: aqua !important;
 			}
 
 			&.special {
