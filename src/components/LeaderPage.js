@@ -48,62 +48,62 @@ const LeaderPage = (props) => (
           <div id = "coord">
             <div id = "item">
             <img src={AlexH} style={{  }} alt="" />     
-            <span id="caption">Alex Hale</span> 
+            <span id="name">Alex Hale</span> 
             </div>
 
             <div id = "item">
             <img src={AnnaH} style={{  }} alt="" />     
-            <span id="caption">Anna H</span>
+            <span id="name">Anna H</span>
             </div> 
 
             <div id = "item">
             <img src={AnnaB} style={{  }} alt="" />     
-            <span id="caption">Anna Bieber</span>
+            <span id="name">Anna Bieber</span>
             </div> 
 
             <div id = "item">
             <img src={Canon} style={{  }} alt="" />     
-            <span id="caption">Canon</span>
+            <span id="name">Canon</span>
             </div> 
 
             <div id = "item">
             <img src={David} style={{  }} alt="" />     
-            <span id="caption">David</span> 
+            <span id="name">David</span> 
             </div>
 
             <div id = "item">
             <img src={Ece} style={{  }} alt="" />     
-            <span id="caption">Ece Pidik</span>
+            <span id="name">Ece Pidik</span>
             </div> 
 
             <div id = "item">
             <img src={Ella} style={{  }} alt="" />     
-            <span id="caption">Ella</span>
+            <span id="name">Ella</span>
             </div> 
 
             <div id = "item">
             <img src={Kevin} style={{  }} alt="" />     
-            <span id="caption">Kevin</span>
+            <span id="name">Kevin</span>
             </div> 
 
             <div id = "item">
             <img src={Laurent} style={{  }} alt="" />     
-            <span id="caption">Laurent</span> 
+            <span id="name">Laurent</span> 
             </div>
 
             <div id = "item">
             <img src={Nick} style={{  }} alt="" />     
-            <span id="caption">Nick</span>
+            <span id="name">Nick</span>
             </div> 
 
             <div id = "item">
             <img src={Thomas} style={{  }} alt="" />     
-            <span id="caption">Thomas Hillyer</span>
+            <span id="name">Thomas Hillyer</span>
             </div> 
 
             <div id = "item">
             <img src={Tristan} style={{  }} alt="" />     
-            <span id="caption">Tristan</span>
+            <span id="name">Tristan</span>
             </div> 
 
           </div>

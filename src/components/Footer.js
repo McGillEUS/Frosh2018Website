@@ -22,7 +22,7 @@ const Footer = (props) => (
             </ul>
         </section>
         <p className="copyright">&copy; McGill EUS 2018</p>
-        <p className="copyright"> Made with ❤️ by suleman malik </p>
+        <p className="copyright"> Made with ❤️ by suleman malik & ajay patel </p>
     </footer>
 )
 
