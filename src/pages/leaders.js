@@ -44,7 +44,7 @@ class Leaders extends React.Component {
 
             <Column flexGrow = {1} horizontal = 'center'>
               <img src={leader} style={{ maxWidth: 100 }} alt=""/>
-              <p>gertrude </p>
+              <p>nigga witthebag </p>
             </Column>
 
             <Column flexGrow = {1} horizontal = 'center'>
