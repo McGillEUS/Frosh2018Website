@@ -7,6 +7,24 @@ import HeaderLeaders from '../components/HeaderLeaders'
 import leader from '../assets/images/leaders/one1.png';
 import {Column, Row} from 'simple-flexbox';
 
+
+//coords
+import AlexH from '../assets/images/coords/CoordBio_Alex.jpg';
+import AnnaB from '../assets/images/coords/CoordBio_AnnaB.png';
+import AnnaH from '../assets/images/coords/CoordBio_AnnaH.png';
+import Canon from '../assets/images/coords/CoordBio_Canon.png';
+import David from '../assets/images/coords/CoordBio_David.png';
+import Ece from '../assets/images/coords/CoordBio_Ece.png';
+import Ella from '../assets/images/coords/CoordBio_Ella.png';
+import Kevin from '../assets/images/coords/CoordBio_Kevin.png';
+import Laurent from '../assets/images/coords/CoordBio_Laurent.png';
+import Nick from '../assets/images/coords/CoordBio_Nick.png';
+import Thomas from '../assets/images/coords/CoordBio_Thomas.png';
+import Tristan from '../assets/images/coords/CoordBio_Tristan.png';
+
+
+
+
 const LeaderPage = (props) => (
 
 
@@ -21,8 +39,39 @@ const LeaderPage = (props) => (
 
 
 
+
+        <div class = "group">
+          <h2> Coordinators </h2> 
+          </div>
+
+        
+          <div class = "column">
+            <img src={AlexH} style={{  }} alt="" />          
+            <img src={AnnaB} style={{  }} alt="" />               
+            <img src={AnnaH} style={{  }} alt="" />
+            <img src={Canon} style={{  }} alt="" />
+          </div>
+
+
+          <div class = "column">
+            <img src={David} style={{  }} alt="" />            
+            <img src={Ece} style={{  }} alt="" />               
+            <img src={Ella} style={{  }} alt="" />
+            <img src={Kevin} style={{  }} alt="" />
+          </div>
+
+          <div class = "column">
+            <img src={Laurent} style={{  }} alt="" />            
+            <img src={Nick} style={{  }} alt="" />               
+            <img src={Thomas} style={{  }} alt="" />
+            <img src={Tristan} style={{  }} alt="" />
+          </div>
+          
+
+
+
           <div class = "group">
-          <p> Group 1 </p> 
+          <h2> Group 1 </h2> 
           </div>
 
         
@@ -31,12 +80,22 @@ const LeaderPage = (props) => (
             <img src={leader} style={{  }} alt="" />               
             <img src={leader} style={{  }} alt="" />
             <img src={leader} style={{  }} alt="" />
-           
           </div>
 
 
+          
+            <h2> Group 2 </h2>
+          
+
+          <div class = "column">
+            <img src={leader} style={{ }} alt="" />            
+            <img src={leader} style={{ }} alt="" />          
+            <img src={leader} style={{ }} alt="" />
+            <img src={leader} style={{ }} alt="" />
+          </div>
+
           <div class = "group">
-            <p> Group 2 </p>
+            <h2> Group 3 </h2>
           </div>
 
           <div class = "column">
@@ -47,129 +106,7 @@ const LeaderPage = (props) => (
           </div>
 
           <div class = "group">
-            <p> Group 3 </p>
-          </div>
-
-          <div class = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
-
-          <div class = "group">
-            <p> Group 4 </p>
-          </div>
-
-
-          <div class = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
-
-          <div class = "group">
-            <p> Group 5 </p>
-          </div>
-
-          <div class = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
-
-          <div class = "group">
-            <p> Group 6 </p>
-          </div>
-
-          <div class = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
-
-          <div class = "group">
-            <p> Group 7 </p>
-          </div>
-
-          <div class = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
-
-          <div class = "group">
-            <p> Group 8 </p>
-          </div>
-
-          <div class = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
-
-          <div class = "group">
-            <p> Group 9 </p>
-          </div>
-
-          <div class = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
-
-          <div class = "group">
-            <p> Group 10 </p>
-          </div>
-
-          <div class = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
-
-          <div class = "group">
-            <p> Group 11</p>
-          </div>
-
-          <div class = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
-
-          <div class = "group">
-            <p> Group 12 </p>
-          </div>
-
-          <div class = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
-
-          <div class = "group">
-            <p> Group 13 </p>
-          </div>
-
-          <div class = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
-
-          <div class = "group">
-            <p> Group 14 </p>
+            <h2> Group 4 </h2>
           </div>
 
 
@@ -181,7 +118,7 @@ const LeaderPage = (props) => (
           </div>
 
           <div class = "group">
-            <p> Group 15 </p>
+            <h2> Group 5 </h2>
           </div>
 
           <div class = "column">
@@ -192,7 +129,7 @@ const LeaderPage = (props) => (
           </div>
 
           <div class = "group">
-            <p> Group 16 </p>
+            <h2> Group 6 </h2>
           </div>
 
           <div class = "column">
@@ -203,7 +140,7 @@ const LeaderPage = (props) => (
           </div>
 
           <div class = "group">
-            <p> Group 17 </p>
+            <h2> Group 7 </h2>
           </div>
 
           <div class = "column">
@@ -214,7 +151,7 @@ const LeaderPage = (props) => (
           </div>
 
           <div class = "group">
-            <p> Group 18 </p>
+            <h2> Group 8 </h2>
           </div>
 
           <div class = "column">
@@ -225,7 +162,7 @@ const LeaderPage = (props) => (
           </div>
 
           <div class = "group">
-            <p> Group 19 </p>
+            <h2> Group 9 </h2>
           </div>
 
           <div class = "column">
@@ -236,7 +173,7 @@ const LeaderPage = (props) => (
           </div>
 
           <div class = "group">
-            <p> Group 20 </p>
+            <h2> Group 10 </h2>
           </div>
 
           <div class = "column">
@@ -247,7 +184,7 @@ const LeaderPage = (props) => (
           </div>
 
           <div class = "group">
-            <p> Group 21 </p>
+            <h2> Group 11</h2>
           </div>
 
           <div class = "column">
@@ -258,7 +195,7 @@ const LeaderPage = (props) => (
           </div>
 
           <div class = "group">
-            <p> Group 22 </p>
+            <h2> Group 12 </h2>
           </div>
 
           <div class = "column">
@@ -269,7 +206,7 @@ const LeaderPage = (props) => (
           </div>
 
           <div class = "group">
-            <p> Group 23 </p>
+            <h2> Group 13 </h2>
           </div>
 
           <div class = "column">
@@ -280,7 +217,19 @@ const LeaderPage = (props) => (
           </div>
 
           <div class = "group">
-            <p> Group 24 </p>
+            <h2> Group 14 </h2>
+          </div>
+
+
+          <div class = "column">
+            <img src={leader} style={{ }} alt="" />            
+            <img src={leader} style={{ }} alt="" />          
+            <img src={leader} style={{ }} alt="" />
+            <img src={leader} style={{ }} alt="" />
+          </div>
+
+          <div class = "group">
+            <h2> Group 15 </h2>
           </div>
 
           <div class = "column">
@@ -291,7 +240,7 @@ const LeaderPage = (props) => (
           </div>
 
           <div class = "group">
-            <p> Group 25 </p>
+            <h2> Group 16 </h2>
           </div>
 
           <div class = "column">
@@ -302,7 +251,7 @@ const LeaderPage = (props) => (
           </div>
 
           <div class = "group">
-            <p> Group 26 </p>
+            <h2> Group 17 </h2>
           </div>
 
           <div class = "column">
@@ -313,7 +262,7 @@ const LeaderPage = (props) => (
           </div>
 
           <div class = "group">
-            <p> Group 27 </p>
+            <h2> Group 18 </h2>
           </div>
 
           <div class = "column">
@@ -324,7 +273,7 @@ const LeaderPage = (props) => (
           </div>
 
           <div class = "group">
-            <p> Group 28 </p>
+            <h2> Group 19 </h2>
           </div>
 
           <div class = "column">
@@ -335,7 +284,7 @@ const LeaderPage = (props) => (
           </div>
 
           <div class = "group">
-            <p> Group 29 </p>
+            <h2> Group 20 </h2>
           </div>
 
           <div class = "column">
@@ -346,7 +295,7 @@ const LeaderPage = (props) => (
           </div>
 
           <div class = "group">
-            <p> Group 30 </p>
+            <h2> Group 21 </h2>
           </div>
 
           <div class = "column">
@@ -357,7 +306,106 @@ const LeaderPage = (props) => (
           </div>
 
           <div class = "group">
-            <p> Group 1 </p>
+            <h2> Group 22 </h2>
+          </div>
+
+          <div class = "column">
+            <img src={leader} style={{ }} alt="" />            
+            <img src={leader} style={{ }} alt="" />          
+            <img src={leader} style={{ }} alt="" />
+            <img src={leader} style={{ }} alt="" />
+          </div>
+
+          <div class = "group">
+            <h2> Group 23 </h2>
+          </div>
+
+          <div class = "column">
+            <img src={leader} style={{ }} alt="" />            
+            <img src={leader} style={{ }} alt="" />          
+            <img src={leader} style={{ }} alt="" />
+            <img src={leader} style={{ }} alt="" />
+          </div>
+
+          <div class = "group">
+            <h2> Group 24 </h2>
+          </div>
+
+          <div class = "column">
+            <img src={leader} style={{ }} alt="" />            
+            <img src={leader} style={{ }} alt="" />          
+            <img src={leader} style={{ }} alt="" />
+            <img src={leader} style={{ }} alt="" />
+          </div>
+
+          <div class = "group">
+            <h2> Group 25 </h2>
+          </div>
+
+          <div class = "column">
+            <img src={leader} style={{ }} alt="" />            
+            <img src={leader} style={{ }} alt="" />          
+            <img src={leader} style={{ }} alt="" />
+            <img src={leader} style={{ }} alt="" />
+          </div>
+
+          <div class = "group">
+            <h2> Group 26 </h2>
+          </div>
+
+          <div class = "column">
+            <img src={leader} style={{ }} alt="" />            
+            <img src={leader} style={{ }} alt="" />          
+            <img src={leader} style={{ }} alt="" />
+            <img src={leader} style={{ }} alt="" />
+          </div>
+
+          <div class = "group">
+            <h2> Group 27 </h2>
+          </div>
+
+          <div class = "column">
+            <img src={leader} style={{ }} alt="" />            
+            <img src={leader} style={{ }} alt="" />          
+            <img src={leader} style={{ }} alt="" />
+            <img src={leader} style={{ }} alt="" />
+          </div>
+
+          <div class = "group">
+            <h2> Group 28 </h2>
+          </div>
+
+          <div class = "column">
+            <img src={leader} style={{ }} alt="" />            
+            <img src={leader} style={{ }} alt="" />          
+            <img src={leader} style={{ }} alt="" />
+            <img src={leader} style={{ }} alt="" />
+          </div>
+
+          <div class = "group">
+            <h2> Group 29 </h2>
+          </div>
+
+          <div class = "column">
+            <img src={leader} style={{ }} alt="" />            
+            <img src={leader} style={{ }} alt="" />          
+            <img src={leader} style={{ }} alt="" />
+            <img src={leader} style={{ }} alt="" />
+          </div>
+
+          <div class = "group">
+            <h2> Group 30 </h2>
+          </div>
+
+          <div class = "column">
+            <img src={leader} style={{ }} alt="" />            
+            <img src={leader} style={{ }} alt="" />          
+            <img src={leader} style={{ }} alt="" />
+            <img src={leader} style={{ }} alt="" />
+          </div>
+
+          <div class = "group">
+            <h2> Group 1 </h2>
           </div>
 
           <div class = "column">
