@@ -143,65 +143,79 @@ const LeaderPage = (props) => (
 
 
           
-            <h2> Group 2 </h2>
+          <h2> Group 2 </h2>
           
 
           <div id = "item">
-            <img src={Tristan} style={{  }} alt="" />     
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
             <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
           </div> 
           <div id = "item">
-            <img src={Tristan} style={{  }} alt="" />     
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
             <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
           </div> 
           <div id = "item">
-            <img src={Tristan} style={{  }} alt="" />     
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
             <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
           </div> 
           <div id = "item">
-            <img src={Tristan} style={{  }} alt="" />     
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
             <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
           </div> 
 
-          <div id = "group">
-            <h2> Group 3 </h2>
-          </div>
+          
+          <h2> Group 3 </h2>
+          
 
           <div id = "item">
-            <img src={Tristan} style={{  }} alt="" />     
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
             <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
           </div> 
           <div id = "item">
-            <img src={Tristan} style={{  }} alt="" />     
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
             <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
           </div> 
           <div id = "item">
-            <img src={Tristan} style={{  }} alt="" />     
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
             <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
           </div> 
           <div id = "item">
-            <img src={Tristan} style={{  }} alt="" />     
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
             <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
           </div> 
-          <div id = "group">
+
+
+          
             <h2> Group 4 </h2>
-          </div>
+          
 
 
           <div id = "item">
-            <img src={Tristan} style={{  }} alt="" />     
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
             <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
           </div> 
           <div id = "item">
-            <img src={Tristan} style={{  }} alt="" />     
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
             <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
           </div> 
           <div id = "item">
-            <img src={Tristan} style={{  }} alt="" />     
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
             <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
           </div> 
           <div id = "item">
-            <img src={Tristan} style={{  }} alt="" />     
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
             <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
           </div> 
 
@@ -210,13 +224,18 @@ const LeaderPage = (props) => (
           </div>
 
           <div id = "item">
-            <img src={Tristan} style={{  }} alt="" />     
-            <span id ="name">Tristan</span>
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
             <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
           </div> 
           <div id = "item">
-            <img src={Tristan} style={{  }} alt="" />   
-            <span id ="name">Tristan</span>  
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
             <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
           </div> 
           <div id = "item">
@@ -224,298 +243,633 @@ const LeaderPage = (props) => (
             <span id ="name">Tristan</span>   
             <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
           </div> 
-          <div id = "item">
-            <img src={Tristan} style={{  }} alt="" />  
-            <span id ="name">Tristan</span>   
-            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
-          </div> 
-
           <div id = "group">
             <h2> Group 6 </h2>
           </div>
 
-          <div id = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
 
           <div id = "group">
             <h2> Group 7 </h2>
           </div>
 
-          <div id = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
 
           <div id = "group">
             <h2> Group 8 </h2>
           </div>
 
-          <div id = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
 
           <div id = "group">
             <h2> Group 9 </h2>
           </div>
 
-          <div id = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
 
           <div id = "group">
             <h2> Group 10 </h2>
           </div>
 
-          <div id = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
 
           <div id = "group">
             <h2> Group 11</h2>
           </div>
 
-          <div id = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
 
           <div id = "group">
             <h2> Group 12 </h2>
           </div>
 
-          <div id = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
 
           <div id = "group">
             <h2> Group 13 </h2>
           </div>
 
-          <div id = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
 
           <div id = "group">
             <h2> Group 14 </h2>
           </div>
 
 
-          <div id = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
 
           <div id = "group">
             <h2> Group 15 </h2>
           </div>
 
-          <div id = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
 
           <div id = "group">
             <h2> Group 16 </h2>
           </div>
 
-          <div id = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
+         <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
 
           <div id = "group">
             <h2> Group 17 </h2>
           </div>
 
-          <div id = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
 
           <div id = "group">
             <h2> Group 18 </h2>
           </div>
 
-          <div id = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
 
           <div id = "group">
             <h2> Group 19 </h2>
           </div>
 
-          <div id = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
 
           <div id = "group">
             <h2> Group 20 </h2>
           </div>
 
-          <div id = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
+         <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
 
           <div id = "group">
             <h2> Group 21 </h2>
           </div>
 
-          <div id = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
 
           <div id = "group">
             <h2> Group 22 </h2>
           </div>
 
-          <div id = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
 
           <div id = "group">
             <h2> Group 23 </h2>
           </div>
 
-          <div id = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
 
           <div id = "group">
             <h2> Group 24 </h2>
           </div>
 
-          <div id = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
 
           <div id = "group">
             <h2> Group 25 </h2>
           </div>
 
-          <div id = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
 
           <div id = "group">
             <h2> Group 26 </h2>
           </div>
 
-          <div id = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
 
           <div id = "group">
             <h2> Group 27 </h2>
           </div>
 
-          <div id = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
 
           <div id = "group">
             <h2> Group 28 </h2>
           </div>
 
-          <div id = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">longnames ghdhuasjhdsaklj</span>   
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
 
           <div id = "group">
             <h2> Group 29 </h2>
           </div>
 
-          <div id = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
 
           <div id = "group">
             <h2> Group 30 </h2>
           </div>
 
-          <div id = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />    
+            <span id ="name">Tristan</span> 
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Tristan</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" /> 
+            <span id ="name">Lee Chong Wei</span>    
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
+          <div id = "item">
+            <img src={Tristan} style={{  }} alt="" />  
+            <span id ="name">Tristan</span>   
+            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          </div> 
 
-          <div id = "group">
-            <h2> Group 1 </h2>
-          </div>
-
-          <div id = "column">
-            <img src={leader} style={{ }} alt="" />            
-            <img src={leader} style={{ }} alt="" />          
-            <img src={leader} style={{ }} alt="" />
-            <img src={leader} style={{ }} alt="" />
-          </div>
+          
 
 
 
