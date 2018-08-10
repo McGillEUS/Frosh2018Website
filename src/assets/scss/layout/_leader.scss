@@ -1,37 +1,10 @@
 
-
-
-#column {
-  //border: 2px solid #333333;
-  display: table;
-  margin-right: auto;
-  overflow: hidden;
-  width: 100%;
-}
-
-#column img {
-  width: 25%;
-  height: 25%;
-  margin-top: 30px;
-  margin-bottom: 30px;
-  padding-left: 30px;
-  padding-right: 30px;
-}
-
-
-
-#1, #2, #3, #4 {
-  float: left;
-  width: 25%;
-  height: auto;
-  background: #eee;
-}
-
 #group {
   text-align: center;
   font-size: 40px;
   font-family: Arial;
 }
+
 
 
 
@@ -41,8 +14,8 @@ div#item {
     display: inline-block;
     /* To horizontally center images and caption */
     text-align: center;
-    /* The width of the container also implies margin around the images. */
-    width: 224px;
+   
+    width: 224px; //ideal width to ensure groups are centered
     margin-left: auto;
     margin-right: auto;
     padding: 15px;
@@ -55,19 +28,17 @@ div#item {
     height: 170px;
 }
 
-    
 #caption {
-    /* Make the caption a block so it occupies its own line. */
     display: block;
-    font-size: 20px;
-    font-family: calibri;
+    font-size: 15px; //font may be too small, might change later depending on bio lengths
+    font-family: calibri; 
 }
 
 #coord {
   //border: 2px solid #333333;
 }
 
-#name {
+#name { //group headings
   font-family: Arial;
   font-size: 20px;
   font-weight: bold;
