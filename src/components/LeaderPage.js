@@ -142,9 +142,9 @@ const LeaderPage = (props) => (
         
 
 
-          
+          <div id = "group">
           <h2> Group 2 </h2>
-          
+          </div>
 
           <div id = "item">
             <img src={Tristan} style={{  }} alt="" />    
@@ -167,9 +167,9 @@ const LeaderPage = (props) => (
             <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
           </div> 
 
-          
+          <div id = "group">
           <h2> Group 3 </h2>
-          
+          </div>
 
           <div id = "item">
             <img src={Tristan} style={{  }} alt="" />    
@@ -193,9 +193,9 @@ const LeaderPage = (props) => (
           </div> 
 
 
-          
+          <div id = "group">
             <h2> Group 4 </h2>
-          
+          </div>
 
 
           <div id = "item">
@@ -243,6 +243,8 @@ const LeaderPage = (props) => (
             <span id ="name">Tristan</span>   
             <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
           </div> 
+
+
           <div id = "group">
             <h2> Group 6 </h2>
           </div>
