@@ -8,7 +8,7 @@
 
 
 
-div#item { //groups of 5
+div#item5 { //groups of 5
     /* To correctly align image, regardless of content height: */
     vertical-align: top;
     display: inline-block;
@@ -22,7 +22,7 @@ div#item { //groups of 5
 
 }
 
-div#itemc { //groups of 4
+div#item4 { //groups of 4
     /* To correctly align image, regardless of content height: */
     vertical-align: top;
     display: inline-block;
@@ -37,12 +37,12 @@ div#itemc { //groups of 4
 }
 
 
-#item img {
+#item5 img {
     width: 150px;
     height: 150px;
 }
 
-#itemc img {
+#item4 img {
     width: 170px;
     height: 170px;
 }
@@ -59,6 +59,7 @@ div#itemc { //groups of 4
 }
 
 #name { //group headings
+  display: block;
   font-family: Arial;
   font-size: 15px;
   font-weight: bold;
@@ -70,4 +71,12 @@ div#itemc { //groups of 4
   font-size: 13px;
   font-weight: bold;
   text-align: justify;
+}
+
+#homeyear {
+  display: block;
+  font-family: Arial;
+  font-size: 13px;
+  font0-weight: bold;
+  text-align: center;
 }

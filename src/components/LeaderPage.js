@@ -135,15 +135,15 @@ import RosalieGuay from '../assets/images/leaders/group 18/Rosalie Guay.png';
 
 //group 19
 import Amanda from '../assets/images/leaders/group 19/IMG_1766 - Amanda Forsans.jpg';
-import Kevin from '../assets/images/leaders/group 19/Kevin Cole.png';
+import KevinCole from '../assets/images/leaders/group 19/Kevin Cole.png';
 import Nicole from '../assets/images/leaders/group 19/Nicole Thoma.jpg';
 import Will from '../assets/images/leaders/group 19/will_connors.jpg';
 
 //group 20
-import Amanda from '../assets/images/leaders/group 20/frosh - nicolas Bieber.jpg';
-import Kevin from '../assets/images/leaders/group 20/IMG_6682 - Alice Lemay.jpg';
-import Nicole from '../assets/images/leaders/group 20/IMG_7500 (2) - Julia R..jpg';
-import Will from '../assets/images/leaders/group 20/Sydney Netto.png';
+import NicolasBieber from '../assets/images/leaders/group 20/frosh - nicolas Bieber.jpg';
+import Alice from '../assets/images/leaders/group 20/IMG_6682 - Alice Lemay.jpg';
+import JuliaR from '../assets/images/leaders/group 20/IMG_7500 (2) - Julia R..jpg';
+import Sydney from '../assets/images/leaders/group 20/Sydney Netto.png';
 
 //group 21
 import Denise from '../assets/images/leaders/group 21/IMG_8257-1 - Denise Bridges.jpg';
@@ -165,7 +165,7 @@ import SamCattani from '../assets/images/leaders/group 23/Jenny Li.png';
 
 //group 24
 import Andre from '../assets/images/leaders/group 24/Andre Lee.jpg';
-import David from '../assets/images/leaders/group 24/FL - David Desmangles.jpeg';
+import DavidDesmangles from '../assets/images/leaders/group 24/FL - David Desmangles.jpg';
 import Shane from '../assets/images/leaders/group 24/IMG_7711 - ShaneRankin9.jpg';
 import Noam from '../assets/images/leaders/group 24/noam rabbani - Noam Rabbani.jpg';
 import AnnaSymon from '../assets/images/leaders/group 24/pic - Anna Symon.png';
@@ -198,76 +198,76 @@ const LeaderPage = (props) => (
 
 
 
-
+          //coords
           <div id = "group">
           <h2> Coordinators </h2> 
           </div>
 
         
           <div id = "coord">
-            <div id = "itemc">
+            <div id = "item4">
             <img src={AlexH} style={{  }} alt="" />     
             <span id="name">Alex Hale</span> 
             </div>
 
-            <div id = "itemc">
+            <div id = "item4">
             <img src={AnnaH} style={{  }} alt="" />     
             <span id="name">Anna H</span>
             </div> 
 
-            <div id = "itemc">
+            <div id = "item4">
             <img src={AnnaB} style={{  }} alt="" />     
             <span id="name">Anna Bieber</span>
             </div> 
 
-            <div id = "itemc">
+            <div id = "item4">
             <img src={Canon} style={{  }} alt="" />     
             <span id="name">Canon</span>
             </div> 
 
-            <div id = "itemc">
+            <div id = "item4">
             <img src={David} style={{  }} alt="" />     
             <span id="name">David</span> 
             </div>
 
-            <div id = "itemc">
+            <div id = "item4">
             <img src={Ece} style={{  }} alt="" />     
             <span id="name">Ece Pidik</span>
             </div> 
 
-            <div id = "itemc">
+            <div id = "item4">
             <img src={Ella} style={{  }} alt="" />     
             <span id="name">Ella</span>
             </div> 
 
-            <div id = "itemc">
+            <div id = "item4">
             <img src={Kevin} style={{  }} alt="" />     
             <span id="name">Kevin</span>
             </div> 
 
-            <div id = "itemc">
+            <div id = "item4">
             <img src={Laurent} style={{  }} alt="" />     
             <span id="name">Laurent</span> 
             </div>
 
-            <div id = "itemc">
+            <div id = "item4">
             <img src={Nick} style={{  }} alt="" />     
             <span id="name">Nick</span>
             </div> 
 
-            <div id = "itemc">
+            <div id = "item4">
             <img src={Thomas} style={{  }} alt="" />     
             <span id="name">Thomas Hillyer</span>
             </div> 
 
-            <div id = "itemc">
+            <div id = "item4">
             <img src={Tristan} style={{  }} alt="" />     
             <span id="name">Tristan</span>
             </div> 
 
           </div>
 
-            
+        
           
           
 
@@ -278,9 +278,21 @@ const LeaderPage = (props) => (
           </div>
 
         
-          <div id = "item">
-            <img src={Kabir} style={{  }} alt="" />    
-            <span id ="name">Kabir Sethi</span>
+          <div id = "item4">
+            <img src={AlexM} style={{  }} alt="" />    
+            <span id ="name">Alex Moreau </span>
+            <span id = "homeyear">Hometown: Montreal</span>
+            <span id = "homeyear">Year: U2 ECSE</span>
+            <span id = "Q1"> What 3 things would you bring to a desert island?</span>
+            <span id="caption">A hockey stick, a puck and whole lot of cheeeeeeese</span>
+            <span id ="Q1">What are you most excited about for Frosh?</span>
+            <span id="caption">I'm looking forward to meeting our group and showing them what is so great about being a McGill Engineering student. Nothing beats the people you meet during Frosh, no matter the awesome event you are at!</span>
+            <span id="Q1">Why would a Froshie want you as their leader?</span>
+            <span id ="caption">I know the ins and outs of Montreal and I know how to have a good time! </span>
+          </div> 
+          <div id = "item4">
+            <img src={Lauriane} style={{  }} alt="" /> 
+            <span id ="name">Lauriane C. Cossette</span>
             <span id = "Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">Sunglasses, sunscreen, and a sunhat</span>
             <span id ="Q1">What are you most excited about for Frosh?</span>
@@ -288,51 +300,51 @@ const LeaderPage = (props) => (
             <span id="Q1">Why would a Froshie want you as their leader?</span>
             <span id ="caption">My fanny pack runs deep</span>
           </div> 
-          <div id = "item">
-            <img src={Nicolas} style={{  }} alt="" /> 
-            <span id ="name">Nicolas</span>    
-            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+          <div id = "item4">
+            <img src={Spencer} style={{  }} alt="" /> 
+            <span id ="name">Spencer Handfield</span>
+            <span id = "Q1"> What 3 things would you bring to a desert island?</span>
+            <span id="caption">Sunglasses, sunscreen, and a sunhat</span>
+            <span id ="Q1">What are you most excited about for Frosh?</span>
+            <span id="caption">Meeting all the new faces in the engineering family</span>
+            <span id="Q1">Why would a Froshie want you as their leader?</span>
+            <span id ="caption">My fanny pack runs deep</span>
           </div> 
-          <div id = "item">
-            <img src={SarahF} style={{  }} alt="" /> 
-            <span id ="name">SarahF</span>    
-            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
-          </div> 
-          <div id = "item">
+          <div id = "item4">
             <img src={Shaun} style={{  }} alt="" />  
-            <span id ="name">Shaun</span>   
-            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
+            <span id ="name">Fiona Hamilton</span>
+            <span id = "Q1"> What 3 things would you bring to a desert island?</span>
+            <span id="caption">Sunglasses, sunscreen, and a sunhat</span>
+            <span id ="Q1">What are you most excited about for Frosh?</span>
+            <span id="caption">Meeting all the new faces in the engineering family</span>
+            <span id="Q1">Why would a Froshie want you as their leader?</span>
+            <span id ="caption">My fanny pack runs deep</span>
           </div> 
-          <div id = "item">
-            <img src={Tristan} style={{  }} alt="" /> 
-            <span id ="name">PlaceHolder</span>    
-            <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
-          </div> 
-        
+          
 
 
           <div id = "group">
           <h2> Group 2 </h2>
           </div>
 
-          <div id = "item">
-            <img src={Tristan} style={{  }} alt="" />    
-            <span id ="name">Tristan</span> 
+          <div id = "item4">
+            <img src={Kabir} style={{  }} alt="" />    
+            <span id ="name">Kabir Sethi</span> 
             <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
           </div> 
-          <div id = "item">
-            <img src={Tristan} style={{  }} alt="" /> 
-            <span id ="name">Tristan</span>    
+          <div id = "item4">
+            <img src={SarahF} style={{  }} alt="" /> 
+            <span id ="name">Sarah Ford</span>    
             <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
           </div> 
-          <div id = "item">
-            <img src={Tristan} style={{  }} alt="" /> 
-            <span id ="name">Lee Chong Wei</span>    
+          <div id = "item4">
+            <img src={Shaun} style={{  }} alt="" /> 
+            <span id ="name">Shaun Jiji</span>    
             <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
           </div> 
-          <div id = "item">
-            <img src={Tristan} style={{  }} alt="" />  
-            <span id ="name">Tristan</span>   
+          <div id = "item4">
+            <img src={Nicolas} style={{  }} alt="" />  
+            <span id ="name">Nicolas Siriwardhana</span>   
             <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
           </div> 
 
@@ -340,24 +352,24 @@ const LeaderPage = (props) => (
           <h2> Group 3 </h2>
           </div>
 
-          <div id = "item">
-            <img src={Tristan} style={{  }} alt="" />    
-            <span id ="name">Tristan</span> 
+          <div id = "item4">
+            <img src={Lianne} style={{  }} alt="" />    
+            <span id ="name">Lianne Campbell</span> 
             <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
           </div> 
-          <div id = "item">
-            <img src={Tristan} style={{  }} alt="" /> 
-            <span id ="name">Tristan</span>    
+          <div id = "item4">
+            <img src={Jordan} style={{  }} alt="" /> 
+            <span id ="name">Jordan Legendre</span>    
             <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
           </div> 
-          <div id = "item">
-            <img src={Tristan} style={{  }} alt="" /> 
-            <span id ="name">Lee Chong Wei</span>    
+          <div id = "item4">
+            <img src={Ahmad} style={{  }} alt="" /> 
+            <span id ="name">Ahmad (AJ) Masri</span>    
             <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
           </div> 
-          <div id = "item">
-            <img src={Tristan} style={{  }} alt="" />  
-            <span id ="name">Tristan</span>   
+          <div id = "item4">
+            <img src={Mike} style={{  }} alt="" />  
+            <span id ="name">Mike Chan</span>   
             <span id="caption">sample bio showing that the text stays below the image so long as a word isnt way too long, but that problem most likely wont occur unless someone thinks theyre shakespeare</span>
           </div> 
 
