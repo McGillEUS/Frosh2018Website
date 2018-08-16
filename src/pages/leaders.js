@@ -5,7 +5,6 @@ import Helmet from 'react-helmet'
 
 import HeaderLeaders from '../components/HeaderLeaders'
 import LeaderPage from '../components/LeaderPage'
-import leader from '../assets/images/leaders/one1.png';
 import {Column, Row} from 'simple-flexbox';
 
 class Leaders extends React.Component {

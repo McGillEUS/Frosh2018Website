@@ -15,6 +15,20 @@ div#item {
     /* To horizontally center images and caption */
     text-align: center;
    
+    width: 170px; //ideal width to ensure groups are centered
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+
+}
+
+div#itemc {
+    /* To correctly align image, regardless of content height: */
+    vertical-align: top;
+    display: inline-block;
+    /* To horizontally center images and caption */
+    text-align: center;
+   
     width: 224px; //ideal width to ensure groups are centered
     margin-left: auto;
     margin-right: auto;
@@ -24,6 +38,11 @@ div#item {
 
 
 #item img {
+    width: 150px;
+    height: 150px;
+}
+
+#itemc img {
     width: 170px;
     height: 170px;
 }
@@ -41,5 +60,12 @@ div#item {
 #name { //group headings
   font-family: Arial;
   font-size: 20px;
+  font-weight: bold;
+}
+
+#Q1 {
+  display: block;
+  font-family: Arial;
+  font-size: 15px;
   font-weight: bold;
 }
