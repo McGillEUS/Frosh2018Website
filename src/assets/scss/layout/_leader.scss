@@ -8,7 +8,7 @@
 
 
 
-div#item {
+div#item { //groups of 5
     /* To correctly align image, regardless of content height: */
     vertical-align: top;
     display: inline-block;
@@ -22,7 +22,7 @@ div#item {
 
 }
 
-div#itemc {
+div#itemc { //groups of 4
     /* To correctly align image, regardless of content height: */
     vertical-align: top;
     display: inline-block;
@@ -49,8 +49,9 @@ div#itemc {
 
 #caption {
     display: block;
-    font-size: 15px; //font may be too small, might change later depending on bio lengths
+    font-size: 13px; //font may be too small, might change later depending on bio lengths
     font-family: calibri; 
+    text-align: justify;
 }
 
 #coord {
@@ -59,13 +60,14 @@ div#itemc {
 
 #name { //group headings
   font-family: Arial;
-  font-size: 20px;
+  font-size: 15px;
   font-weight: bold;
 }
 
 #Q1 {
   display: block;
   font-family: Arial;
-  font-size: 15px;
+  font-size: 13px;
   font-weight: bold;
+  text-align: justify;
 }
