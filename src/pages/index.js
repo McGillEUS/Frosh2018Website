@@ -76,7 +76,7 @@ class Index extends React.Component {
 
               <div id="btn">
                 <ul className="actions">
-                  <li><Link to="#" className="button ">✏️ Frequently Asked Questions 📒</Link></li>
+                  <li><Link to="faq" className="button ">✏️ Frequently Asked Questions 📒</Link></li>
                 </ul>
               </div>
 
@@ -85,7 +85,7 @@ class Index extends React.Component {
               </div>
 
                 <ul className="actions">
-                  <li><Link to="#" className="button special">Registration coming soon!</Link></li>
+                  <li><a href="http://www.mcgill.ca/firstyear/mcgilloweek/" className="button special">Register now!</a></li>
                 </ul>
 
               </div>
