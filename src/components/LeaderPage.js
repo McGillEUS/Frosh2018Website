@@ -1215,7 +1215,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <span id="Q1">What are you most excited about for Frosh?</span>
             <span id="caption">Beach day every day, Beachday Everyday</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I have a PhD in dick suckin </span>
           </div> 
           <div id = "item5">
             <img src={Isabelle} style={{  }} alt="" /> 
