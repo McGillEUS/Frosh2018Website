@@ -1,4 +1,7 @@
 
+
+
+
 #group {
   text-align: center;
   font-size: 40px;
@@ -30,9 +33,11 @@ div#item4 { //groups of 4
     text-align: center;
    
     width: 224px; //ideal width to ensure groups are centered
+    
     margin-left: auto;
     margin-right: auto;
     padding: 15px;
+    
 
 }
 
@@ -40,18 +45,24 @@ div#item4 { //groups of 4
 #item5 img {
     width: 163px;
     height: 163px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #item4 img {
     width: 170px;
     height: 170px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #caption {
     display: block;
     font-size: 15px; //font may be too small, might change later depending on bio lengths
-    font-family: calibri; 
-    text-align: justify;
+    font-family: Helvetica; 
+    text-align: left;
+    //width: 224px;
+
 }
 
 #coord {
@@ -63,6 +74,7 @@ div#item4 { //groups of 4
   font-family: Arial;
   font-size: 15px;
   font-weight: bold;
+  //text-align: center;
 }
 
 #Q1 {
@@ -70,7 +82,7 @@ div#item4 { //groups of 4
   font-family: Helvetica;
   font-size: 13px;
   font-weight: bold;
-  text-align: justify;
+  text-align: left;
 }
 
 #homeyear {

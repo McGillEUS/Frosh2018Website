@@ -24,6 +24,9 @@ import Tristan from '../assets/images/coords/CoordBio_Tristan.png';
 
 //leaders
 
+//nophoto
+import Wilson from '../assets/images/leaders/castaway533.jpg'
+
 //group 1
 import Lauriane from '../assets/images/leaders/group 1/Lauriane Cossette.jpg';
 import AlexM from '../assets/images/leaders/group 1/Frosh_Pic - Alex Moreau.jpg';
@@ -312,7 +315,7 @@ const LeaderPage = (props) => (
             <img src={Lauriane} style={{  }} alt="" /> 
             <span id="name">Lauriane C. Cossette</span>
             <span id="homeyear">no idea (Signapore?)</span>
-            <span id="homeyear">U1 Chemical Engineering</span>
+            <span id="homeyear">U1 Chemical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">Frostbite ice cream, fanny pack and crocs</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -336,14 +339,8 @@ const LeaderPage = (props) => (
 
 
           <div id = "item4">
-            <img src={Tristan} style={{  }} alt="" />  
+            <img src={Wilson} style={{  }} alt="" />  
             <span id ="name">Fiona Hamilton</span>
-            <span id = "Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Sunglasses, sunscreen, and a sunhat</span>
-            <span id ="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Meeting all the new faces in the engineering family</span>
-            <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id ="caption">My fanny pack runs deep</span>
           </div> 
           
 
@@ -356,7 +353,7 @@ const LeaderPage = (props) => (
             <img src={Kabir} style={{  }} alt="" />    
             <span id ="name">Kabir Sethi</span> 
             <span id="homeyear">New Delhi, India</span>
-            <span id="homeyear">U3 Mechanical Engineering</span>
+            <span id="homeyear">U3 Mechanical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">Sunglasses, sunscreen, and a sunhat</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -368,7 +365,7 @@ const LeaderPage = (props) => (
             <img src={SarahF} style={{  }} alt="" /> 
             <span id ="name">Sarah Ford</span>    
             <span id="homeyear">Long Island, NJ</span>
-            <span id="homeyear">U3 Mechanical Engineering</span>
+            <span id="homeyear">U3 Mechanical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">a volleyball,  a volleyball net, and a robot to play volleyball with me</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -380,7 +377,7 @@ const LeaderPage = (props) => (
             <img src={Shaun} style={{  }} alt="" /> 
             <span id ="name">Shaun Jiji</span>    
             <span id="homeyear">Hong Kong</span>
-            <span id="homeyear">U2 Civil Engineering</span>
+            <span id="homeyear">U2 Civil </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">A juul that never dies with one unlimited mango pod, and a bottle of fireball </span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -392,7 +389,7 @@ const LeaderPage = (props) => (
             <img src={Nicolas} style={{  }} alt="" />  
             <span id ="name">Nicolas Siriwardhana</span>   
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">U1.5 Engineering </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">Salt, Lime, Tequila</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -409,16 +406,13 @@ const LeaderPage = (props) => (
             <img src={Lianne} style={{  }} alt="" />    
             <span id ="name">Lianne Campbell</span> 
             <span id="homeyear">Vancouver, BC</span>
-            <span id="homeyear">U1 Mechanical Engineering</span>
+            <span id="homeyear">U1 Mechanical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">
-A disc(frisbee for those of you who don't know), a bike, and tea</span>
+            <span id="caption">A disc(frisbee for those of you who don't know), a bike, and tea</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">
-All the energy and fun throughout the week!</span>
+            <span id="caption">All the energy and fun throughout the week!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">
-I'm laughing & smiling 99% of the time</span>
+            <span id="caption">I'm laughing & smiling 99% of the time</span>
           </div> 
           <div id = "item4">
             <img src={Jordan} style={{  }} alt="" /> 
@@ -426,20 +420,17 @@ I'm laughing & smiling 99% of the time</span>
             <span id="homeyear">Middletown, CT</span>
             <span id="homeyear">U1 Bioengineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">
-A good squad, my dogs, and a fire mixtape</span>
+            <span id="caption">A good squad, my dogs, and a fire mixtape</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">
-To meet all the froshies!!!</span>
+            <span id="caption">To meet all the froshies!!!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">
-I have SO many puns and vine references </span>
+            <span id="caption">I have SO many puns and vine references </span>
           </div> 
           <div id = "item4">
             <img src={Ahmad} style={{  }} alt="" /> 
             <span id ="name">Ahmad (AJ) Masri</span>    
             <span id="homeyear">Nabulus, Palestine</span>
-            <span id="homeyear">U2 Mechanical Engineering</span>
+            <span id="homeyear">U2 Mechanical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">My blue eyes white dragon (incase I get ambushed and need to duel my way out),  spongebobs greatest hits album (incase I need to start a fire), a tub of frostbite ice cream (incase I need to put out said fire)</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -451,9 +442,9 @@ I have SO many puns and vine references </span>
             <img src={Mike} style={{  }} alt="" />  
             <span id ="name">Mike Chan</span>   
             <span id="homeyear">Toronto, Ontario</span>
-            <span id="homeyear">U4 Mining Engineering</span>
+            <span id="homeyear">U4 Mining </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Jordan Legendre, Lianne Campbell, and AJ Masari</span>
+            <span id="caption">Jordan Legendre, Lianne Campbell, and AJ Masri</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
             <span id="caption">To facilitate new friendships and EUS involvement! Seeing my old froshies' successes make me so happy and I want to keep doing that. </span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
@@ -470,7 +461,7 @@ I have SO many puns and vine references </span>
             <img src={DavidMasson} style={{  }} alt="" />    
             <span id ="name">David Masson</span> 
             <span id="homeyear">Quebec City</span>
-            <span id="homeyear">U2 Mechanical Engineering</span>
+            <span id="homeyear">U2 Mechanical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">A reusable Blues Pub cup, a MAME survival guide and an iPod Nano containing one (1) song that would be L'alcool c'est de l'eau.</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -506,7 +497,7 @@ I have SO many puns and vine references </span>
             <img src={Gareth} style={{  }} alt="" />  
             <span id ="name">Gareth Price</span>   
             <span id="homeyear">Aurora, Ontario</span>
-            <span id="homeyear">U1 Chemical Engineering</span>
+            <span id="homeyear">U1 Chemical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">A big ol' pup, like a hundred (100) Summers bees, and a can-do attitude.</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -522,14 +513,12 @@ I have SO many puns and vine references </span>
           <div id = "item4">
             <img src={BenjaminC} style={{  }} alt="" />    
             <span id ="name">Benjamin Carris</span> 
-            <span id="homeyear">Coquitlam</span>
-            <span id="homeyear">U2 Chemical Engineering</span>
+            <span id="homeyear">Coquitlam, BC</span>
+            <span id="homeyear">U2 Chemical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">
-wilson, sunglasses,  keg</span>
+            <span id="caption">wilson, sunglasses,  keg</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">
-beach day of course</span>
+            <span id="caption">beach day of course</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
             <span id="caption">Because I'll hype up the whole group together</span>
           </div> 
@@ -537,22 +526,19 @@ beach day of course</span>
             <img src={BenjaminM} style={{  }} alt="" /> 
             <span id ="name">Benjamin Munt</span>    
             <span id="homeyear">Vancouver, BC</span>
-            <span id="homeyear">U1 Civil Engineering</span>
+            <span id="homeyear">U1 Civil </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">My two dogs and a copy of James Stewart calculus  </span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">
-Showing people why I love Mcgill. </span>
+            <span id="caption">Showing people why I love Mcgill. </span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a good work life balance where I am involved with design teams but still find time to go out and pass class. (For now at least) 
-To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortcuts, press Ctrl+slash
-</span>
+            <span id="caption">I have a good work life balance where I am involved with design teams but still find time to go out and pass class. (For now at least) </span>
           </div> 
           <div id = "item4">
             <img src={Emery} style={{  }} alt="" /> 
             <span id ="name">Emery McBride Savaria</span>    
             <span id="homeyear">Boucherville, QC</span>
-            <span id="homeyear">U3 Mechnical Engineering</span>
+            <span id="homeyear">U3 Mechnical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">a bathing suit, some fresh salsa and a hammock</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -564,7 +550,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={MarchOlivier} style={{  }} alt="" />  
             <span id ="name">Marc-Olivier Van Dorpe</span>   
             <span id="homeyear">Chambly, QC</span>
-            <span id="homeyear">U3 Mechnical Engineering</span>
+            <span id="homeyear">U3 Mechnical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">Sunscreen, umbrella and some shades</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -606,7 +592,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Olivier} style={{  }} alt="" /> 
             <span id ="name">Olivier Fortier</span>    
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U2 Civil Engineering</span>
+            <span id="homeyear">U2 Civil </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">Duck Tape, sunscreen and my dog</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -628,7 +614,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
           </div> 
           <div id = "item5">
             <img src={Stephanie} style={{  }} alt="" />  
-            <span id ="name">Stéphanie Abdel Malek</span>   
+            <span id="name">Stéphanie Abdel Malek</span>   
             <span id="homeyear">Montreal</span>
             <span id="homeyear">U2 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
@@ -659,7 +645,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Andrea} style={{  }} alt="" /> 
             <span id ="name">Andrea Huerta</span>    
             <span id="homeyear">Lima, Peru</span>
-            <span id="homeyear">U3 Materials Engineering</span>
+            <span id="homeyear">U3 Materials </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">speakers, my doggo, treats for my doggo </span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -671,7 +657,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Luc} style={{  }} alt="" /> 
             <span id ="name">Luc Plamondon</span>    
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U3 Civil Engineering</span>
+            <span id="homeyear">U3 Civil </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">Bugspray, a soccer ball and a grill.</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -683,7 +669,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Ethan} style={{  }} alt="" />  
             <span id ="name">Ethan Lague</span>   
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U3 Eletrical Engineering</span>
+            <span id="homeyear">U3 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">A speaker, an aux cord, and any device (with) Body by Loud Luxury on it.</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -692,16 +678,8 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <span id="caption">I'm an experienced Montrealer so I can give tons of pointers on the best food spots, party spots, or whatever they're looking for. </span>
           </div> 
           <div id = "item5">
-            <img src={Tristan} style={{  }} alt="" />  
+            <img src={Wilson} style={{  }} alt="" />  
             <span id ="name">Sebastien Quinn</span>   
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
-            <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
-            <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
-            <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
           </div> 
 
           <div id = "group">
@@ -712,7 +690,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Mathew} style={{  }} alt="" />    
             <span id ="name">Mathew Kfouri</span> 
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U2 Mechanical Engineering</span>
+            <span id="homeyear">U2 Mechanical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">A pineapple pizza, a magic lamp and a box of 1000 ball bearings </span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -724,7 +702,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={AlexSassano} style={{  }} alt="" /> 
             <span id ="name">Alex Sassano</span>    
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U4 Mining Engineering</span>
+            <span id="homeyear">U4 Mining </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">Anime body pillow,  grapefruit, rum ham</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -748,7 +726,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Elijah} style={{  }} alt="" />  
             <span id ="name">Elijah Saragosa</span>   
             <span id="homeyear">Saragosa</span>
-            <span id="homeyear">U4 Mining Engineering</span>
+            <span id="homeyear">U4 Mining </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">Some of Smirnoff Ice (to prank the other castaways), A solar powered portable DVD player and the boxset of some very long TV show</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -760,7 +738,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Owen} style={{  }} alt="" />  
             <span id ="name">Owen Quinn</span>   
             <span id="homeyear">Ottawa, ON</span>
-            <span id="homeyear">U1 Mechanical Engineering</span>
+            <span id="homeyear">U1 Mechanical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">A giant inflatable duck (for lounging purposes only), a hammock, a speaker (for jamming purposes only)</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -777,7 +755,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Brent} style={{  }} alt="" />    
             <span id ="name">Brent Coutts</span> 
             <span id="homeyear">Vancouver, BC</span>
-            <span id="homeyear">U4 Chemical Engineering</span>
+            <span id="homeyear">U4 Chemical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">Bow, arrow, tightrope.... walk to mainland #engineering</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -789,7 +767,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Ameer} style={{  }} alt="" /> 
             <span id ="name">Ameer Nizami</span>    
             <span id="homeyear">Saint-Lambert</span>
-            <span id="homeyear">U4 Chemical Engineering</span>
+            <span id="homeyear">U4 Chemical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">A mirror to flag for escape, a sponge and a starfish to make up my own spongebob episodes.</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -801,7 +779,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Delwyn} style={{  }} alt="" /> 
             <span id ="name">Delwyn Yit</span>    
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U4 Materials Engineering</span>
+            <span id="homeyear">U4 Materials </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">Pool mattress, Water Skis, BE(v)ER(age)S</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -813,7 +791,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={MichaelLi} style={{  }} alt="" />  
             <span id ="name">Michael Li Fraine</span>   
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U4 Mechanical Engineering</span>
+            <span id="homeyear">U4 Mechanical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">Surf Board, Bottle of Rum, Wilson</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -825,7 +803,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={EmmaFerrabee} style={{  }} alt="" />  
             <span id ="name">Emma Ferrabee</span>   
             <span id="homeyear">London</span>
-            <span id="homeyear">U3 Chemical Engineering</span>
+            <span id="homeyear">U3 Chemical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">some way of making fries, craft supplies (!!!) and a copy of every desert island discs, just for like. sympathetic company. </span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -842,7 +820,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Mat} style={{  }} alt="" />    
             <span id ="name">Mathieu Njoo</span> 
             <span id="homeyear">Ottawa, ON</span>
-            <span id="homeyear">U3 Civil Engineering</span>
+            <span id="homeyear">U3 Civil </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">"Vector Mechanics for Engineers, 10th Edition" for fire, spaghetti to build a bridge, dry socks.</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -866,7 +844,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Cedric} style={{  }} alt="" /> 
             <span id ="name">Cedric Welt</span>    
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U2 Civil Engineering</span>
+            <span id="homeyear">U2 Civil </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">Solar Powered Speaker, soccer ball, a doggo</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -878,7 +856,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Laurence} style={{  }} alt="" />  
             <span id ="name">Laurence Peinturier</span>   
             <span id="homeyear">Quimper, France</span>
-            <span id="homeyear">U2 Mechanical Engineering</span>
+            <span id="homeyear">U2 Mechanical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">Une baguette, une bouteille de vin et un bon Comté</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -887,16 +865,8 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <span id="caption">I'm 5 feet tall...They can rest their elbows on my head if they feel tired...</span>
           </div> 
           <div id = "item5">
-            <img src={Tristan} style={{  }} alt="" />  
+            <img src={Wilson} style={{  }} alt="" />  
             <span id ="name">Ali Shobeiri</span>   
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
-            <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
-            <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
-            <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
           </div> 
 
           <div id = "group">
@@ -907,7 +877,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={MarieClaire} style={{  }} alt="" />    
             <span id ="name">Marie-Claire Hamel</span> 
             <span id="homeyear">Boucherville (B-TOWN)</span>
-            <span id="homeyear">U4 Civil Engineering</span>
+            <span id="homeyear">U4 Civil </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">my bed, chocolate and off to kill mosquitos</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -919,7 +889,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Thierry} style={{  }} alt="" /> 
             <span id ="name">Thierry Pichette</span>    
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U4 Mechanical Engineering</span>
+            <span id="homeyear">U4 Mechanical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">Duct tape, a giant 6ft water baloon for cussion and a pair of shades</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -984,7 +954,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Jonathan} style={{  }} alt="" /> 
             <span id ="name">Jonathan Ong</span>    
             <span id="homeyear">Lancaster, Pennsylvania</span>
-            <span id="homeyear">U1 Chemical Engineering</span>
+            <span id="homeyear">U1 Chemical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">my Birkenstocks, Secret Aardvark Habanero Hot Sauce, and Charmin Ultra Strong Toilet Paper</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1025,11 +995,11 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={RyanZel} style={{  }} alt="" />    
             <span id ="name">Ryan Zelnicker</span> 
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U2 Chemical Engineering</span>
+            <span id="homeyear">U2 Chemical</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">My laptop, a hammock and an infinite supply of plumber's pockets</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">PUB CRAWL!y</span>
+            <span id="caption">PUB CRAWL!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
             <span id="caption">I'll make sure that they have the best and most memorable 4 days of the whole school year</span>
           </div> 
@@ -1037,7 +1007,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Tal} style={{  }} alt="" /> 
             <span id ="name">Tal Abravanel</span>    
             <span id="homeyear">Istanbul, Turkey</span>
-            <span id="homeyear">U2 Mechanical Engineering</span>
+            <span id="homeyear">U2 Mechanical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">A pillow, a sword and a metal detector</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1070,16 +1040,9 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <span id="caption">Because I'm fun and put others before myself</span>
           </div> 
           <div id = "item5">
-            <img src={Tristan} style={{  }} alt="" />  
+            <img src={Wilson} style={{  }} alt="" />  
             <span id ="name">Judy Park</span>   
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
-            <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
-            <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
-            <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            
           </div> 
 
           <div id = "group">
@@ -1091,7 +1054,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={eleri} style={{  }} alt="" />    
             <span id ="name">Eleri Moynagh</span> 
             <span id="homeyear">Toronto</span>
-            <span id="homeyear">U4 Civil Engineering</span>
+            <span id="homeyear">U4 Civil </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">A hammock, puppies, and beer on tap</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1115,7 +1078,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={AlexScheffel} style={{  }} alt="" /> 
             <span id ="name">Alex Scheffel</span>    
             <span id="homeyear">The city that fun forgot (O-Town)</span>
-            <span id="homeyear">U3 Mechanical Engineering</span>
+            <span id="homeyear">U3 Mechanical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">Probably 3 of the elevators from Burnside</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1124,16 +1087,9 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <span id="caption">I can maybe probably hopefully teach them a thing or two about the EUS</span>
           </div> 
           <div id = "item4">
-            <img src={Tristan} style={{  }} alt="" />  
+            <img src={Wilson} style={{  }} alt="" />  
             <span id ="name">Sammy Ozere</span>   
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
-            <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
-            <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
-            <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            
           </div> 
 
           <div id = "group">
@@ -1144,7 +1100,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Vassil} style={{  }} alt="" />    
             <span id ="name">Vassil Kroumov</span> 
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">Mechanical Engineering</span>
+            <span id="homeyear">Mechanical Engineering </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">My family, a flamethrower, an axe </span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1168,7 +1124,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Emeric} style={{  }} alt="" /> 
             <span id ="name">Emeric Bernier</span>    
             <span id="homeyear">LECLERCVILLE, QC</span>
-            <span id="homeyear">U2 Mechanical Engineering</span>
+            <span id="homeyear">U2 Mechanical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">DEODORANT, MY MOM (STILL GOTTA COOK AND DO LAUNDRY SMH) AND A JET SKI</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1180,7 +1136,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Lara} style={{  }} alt="" />  
             <span id ="name">Lara Ghanem</span>   
             <span id="homeyear">Jounieh (Lebanon)</span>
-            <span id="homeyear">U1 Engineering</span>
+            <span id="homeyear">U1 </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">Beer friends and more beer</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1189,10 +1145,10 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <span id="caption">I am always hyped</span>
           </div> 
           <div id = "item5">
-            <img src={Lara} style={{  }} alt="" />  
+            <img src={Mario} style={{  }} alt="" />  
             <span id ="name">Mario Lipari</span>   
             <span id="homeyear">Varennes, Québec</span>
-            <span id="homeyear">U2 Mechanical Engineering</span>
+            <span id="homeyear">U2 Mechanical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">Duck tape, duck tape and more duck tape (I can make myself a boat)</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1247,7 +1203,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
           </div>
 
           <div id = "item5">
-            <img src={Tristan} style={{  }} alt="" />  
+            <img src={Wilson} style={{  }} alt="" />  
             <span id ="name">Charles Brana</span>   
             <span id="homeyear">Le Déron</span>
             <span id="homeyear">U3 ECSE</span>
@@ -1276,7 +1232,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <h4> Group 17 </h4>
           </div>
 
-          <div id = "item4">I will not only lead a froshie through orientation, I will continue to help guide them them through the beginning of their entire McGill experience.To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortcuts, press Ctrl+slash
+          <div id = "item4">
 
             <img src={Kelly} style={{  }} alt="" />    
             <span id ="name">Kelly Ma</span> 
@@ -1314,7 +1270,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <span id="caption">So I can recommend them all the best bagel spots in Montreal!</span>
           </div> 
           <div id = "item4">
-            <img src={Tristan} style={{  }} alt="" />  
+            <img src={Wilson} style={{  }} alt="" />  
             <span id ="name">Paul Hooley</span>   
             <span id="homeyear">Milan</span>
             <span id="homeyear">U2 ECSE</span>
@@ -1346,7 +1302,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={RosalieGuay} style={{  }} alt="" /> 
             <span id ="name">Rosalie Guay</span>    
             <span id="homeyear">Saint-Georges</span>
-            <span id="homeyear">U3 Civil Engineering</span>
+            <span id="homeyear">U3 Civil </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">...</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1366,17 +1322,11 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <span id="Q1">Why would a Froshie want you as their leader?</span>
             <span id="caption">Living in Montreal my whole life, I have discovered this city and all the beautiful things it has to offer, and cannot wait to share it all with them.</span>
           </div> 
+
           <div id = "item4">
-            <img src={Tristan} style={{  }} alt="" />  
+            <img src={Wilson} style={{  }} alt="" />  
             <span id ="name">Karine Flamand</span>   
-            <span id="homeyear">Leawood, Kansas, USA</span>
-            <span id="homeyear">Super Senior Civil</span>
-            <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">60 SPF Sunscreen, a polar bear, and a volleyball </span>
-            <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">New friends!</span>
-            <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I ask myself this everyday</span>
+            
           </div> 
 
           <div id = "group">
@@ -1395,12 +1345,13 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <span id="Q1">Why would a Froshie want you as their leader?</span>
             <span id="caption">I ask myself this everyday</span>
           </div> 
-          </div> 
+
+          
           <div id = "item4">
             <img src={Nicole} style={{  }} alt="" /> 
             <span id ="name">Nicole Thoma</span>    
             <span id="homeyear">Boston, Massachusetts</span>
-            <span id="homeyear">U1 Mechanical Engineering</span>
+            <span id="homeyear">U1 Mechanical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">A wii, the wii game "Just Dance", and peanut butter</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1408,11 +1359,12 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <span id="Q1">Why would a Froshie want you as their leader?</span>
             <span id="caption">Because I am fun and welcoming and just experienced frosh and my first year of uni so I am full of advice and experience that I want to share!!</span>
           </div> 
+
           <div id = "item4">
             <img src={Amanda} style={{  }} alt="" /> 
             <span id ="name">Amanda Forsans</span>    
             <span id="homeyear">Long Lake, Minnesota</span>
-            <span id="homeyear">U2 Civil Engineering</span>
+            <span id="homeyear">U2 Civil </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">A keg, 5 good friends and a disco ball</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1420,11 +1372,12 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <span id="Q1">Why would a Froshie want you as their leader?</span>
             <span id="caption">I'm a welcoming and easy person to talk to</span>
           </div> 
+
           <div id = "item4">
             <img src={Will} style={{  }} alt="" />  
             <span id ="name">Will Connors</span>   
             <span id="homeyear">Chester, Nova Scotia</span>
-            <span id="homeyear">U3 Civil Engineering</span>
+            <span id="homeyear">U3 Civil </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">Surfboard, dancing shoes, and a lavender suit</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1453,7 +1406,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={JuliaR} style={{  }} alt="" /> 
             <span id ="name">Julia Rafferty</span>    
             <span id="homeyear">San Francisco</span>
-            <span id="homeyear">U1 Civil Engineering</span>
+            <span id="homeyear">U1 Civil </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">3 kilos of Swedish Fish (better nutrition than ocean fish), a solar powered freezer full of Frostbite and a crate of rainbow drink umbrellas. </span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1494,7 +1447,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Traven} style={{  }} alt="" />    
             <span id ="name">Traven Blaney</span> 
             <span id="homeyear">White Rock, BC</span>
-            <span id="homeyear">U3 Civil Engineering</span>
+            <span id="homeyear">U3 Civil </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">A pet monkey to bring me fruit all day, Batman, and 2 water guns (one for me, one for the monkey)</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1506,7 +1459,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={RyanWong} style={{  }} alt="" /> 
             <span id ="name">Ryan Wong</span>    
             <span id="homeyear">Vancouver, BC</span>
-            <span id="homeyear">U2 Materials Engineering</span>
+            <span id="homeyear">U2 Materials </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">My camera, a lifetime supply of dynamite sushi rolls, and a Bluetooth speaker with Bohemian Rhapsody – by Queen playing.</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1518,7 +1471,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Denise} style={{  }} alt="" /> 
             <span id ="name">Denise Bridges</span>    
             <span id="homeyear">Oakville, ON</span>
-            <span id="homeyear">U3 Materials Engineering</span>
+            <span id="homeyear">U3 Materials </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">A golden retriever, a lifetime supply of coffee, and a unicorn floatation device </span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1530,7 +1483,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Julia} style={{  }} alt="" />  
             <span id ="name">Julia Elson</span>   
             <span id="homeyear">Vancouver, BC</span>
-            <span id="homeyear">U3 Chemical Engineering</span>
+            <span id="homeyear">U3 Chemical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">MY VITAMIX legit the most life-changing blender. Now I can make delicious smoothies with island fruits!!! Then I’ll need sunscreen because I even burn with it on sometimes :( finally I’ll need a companion so I won’t get bored, so probably Tupac. </span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1547,7 +1500,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Amy} style={{  }} alt="" />    
             <span id ="name">Amy Hayes</span> 
             <span id="homeyear">Timmins ON</span>
-            <span id="homeyear">U2 Chemical Engineering</span>
+            <span id="homeyear">U2 Chemical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">Perry's Chemical Engineers' Handbook, Transport Processes and Unit Operations, and of course my handy steam table.</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1559,7 +1512,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Khalis} style={{  }} alt="" /> 
             <span id ="name">Khalis Khaleel</span>    
             <span id="homeyear">Colombo, Sri Lanka</span>
-            <span id="homeyear">U1 Materials Engineering</span>
+            <span id="homeyear">U1 Materials </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">McGill ID, sunscreen and a 200 pcs Timbits™ box for nutrition.</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1583,7 +1536,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={SarahJ} style={{  }} alt="" />  
             <span id ="name">Sarah Jurchuk</span>   
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U2 Bioengineering</span>
+            <span id="homeyear">U2 Bio</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">Lifetime supply of chocolate, a pillow, and my favorite shampoo and conditioner</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1600,7 +1553,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={SamBaker} style={{  }} alt="" />    
             <span id ="name">Sam Baker</span> 
             <span id="homeyear">Calgary, AB</span>
-            <span id="homeyear">U2 Bioengineering</span>
+            <span id="homeyear">U2 Bio</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">All 9 seasons of The Office, my cowboy hat, and an accordion.</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1612,7 +1565,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Jenny} style={{  }} alt="" /> 
             <span id ="name">Jenny Li</span>    
             <span id="homeyear">Abbotsford, BC</span>
-            <span id="homeyear">U2 Mechanical Engineering</span>
+            <span id="homeyear">U2 Mechanical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">snorkel gear, tanning oil and a jug of pina colada</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1621,7 +1574,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <span id="caption">I'm REALLY responsible (especially during pub crawl)</span>
           </div> 
           <div id = "item4">
-            <img src={Tristan} style={{  }} alt="" /> 
+            <img src={Wilson} style={{  }} alt="" /> 
             <span id ="name">Sam Cattani</span>    
             <span id="homeyear">Winnipeg</span>
             <span id="homeyear">U2 ECSE</span>
@@ -1665,7 +1618,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Shane} style={{  }} alt="" /> 
             <span id ="name">Shane Rankin</span>    
             <span id="homeyear">Ottawa, ON</span>
-            <span id="homeyear">U3 Chemical Engineering</span>
+            <span id="homeyear">U3 Chemical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">Catan, 5x5 Rubik's Cube, Spikeball</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1677,7 +1630,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Andre} style={{  }} alt="" /> 
             <span id ="name">Andre Lee</span>    
             <span id="homeyear">Vancouver</span>
-            <span id="homeyear">U3 Chemical Engineering</span>
+            <span id="homeyear">U3 Chemical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">definitely my 3 other cO-lEaDErs</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1689,7 +1642,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={AnnaSymon} style={{  }} alt="" />  
             <span id ="name">Anna Symon</span>   
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U2 Chemical Engineering</span>
+            <span id="homeyear">U2 Chemical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">David, Lara and Anne-Julie</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1701,7 +1654,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={DavidDesmangles} style={{  }} alt="" />  
             <span id ="name">David Desmangles</span>   
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U2 Chemical Engineering</span>
+            <span id="homeyear">U2 Chemical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">SAFTB flag, Tarps for a slip n' slide, a Rasta hat.</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1730,7 +1683,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Zoheir} style={{  }} alt="" /> 
             <span id ="name">Zoheir Seddiki</span>    
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">Materials U3 Engineering</span>
+            <span id="homeyear">Materials U3 </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">Beyoncé, Kelly and Michelle singing "Survivor"</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1742,7 +1695,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Marine} style={{  }} alt="" /> 
             <span id ="name">Marine Fitsch-Mouras</span>    
             <span id="homeyear">Strasbourg, France</span>
-            <span id="homeyear">U3 Chemical Engineering</span>
+            <span id="homeyear">U3 Chemical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">A bluetooth speaker, a deck of cards and a hammock</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1766,7 +1719,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Pedro} style={{  }} alt="" />  
             <span id ="name">Pedro Leite</span>   
             <span id="homeyear">Sao Paulo, Brazil</span>
-            <span id="homeyear">U4 Mechanical Engineering</span>
+            <span id="homeyear">U4 Mechanical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">Definitely some swim trunks, a football, and some beer :)</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1795,7 +1748,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Vignesh} style={{  }} alt="" /> 
             <span id ="name">Vignesh Pushparaj</span>    
             <span id="homeyear">Colombo, Sri Lanka</span>
-            <span id="homeyear">U3 Mechanical Engineering</span>
+            <span id="homeyear">U3 Mechanical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">Tres doggos</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1807,7 +1760,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Julian} style={{  }} alt="" /> 
             <span id ="name">Julian Pucella</span>    
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U2 Civil Engineering</span>
+            <span id="homeyear">U2 Civil </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">A book I won't read (will probably double as a pillow), SPF 100, and the knowledge that the mitochondria is the powerhouse of the cell.</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -1828,19 +1781,12 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <span id="caption">I will try to create a friendly environment where every students get involved in frosh activities while the lots of fun as well as good and memorable times.</span>
           </div>  
           <div id = "item5">
-            <img src={Tristan} style={{  }} alt="" />  
+            <img src={Wilson} style={{  }} alt="" />  
             <span id ="name">Charbel Saade</span>   
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
-            <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
-            <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
-            <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            
           </div>   
 
-
+          </div>
 
             
         
