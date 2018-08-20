@@ -19,7 +19,19 @@ import vader from '../assets/images/sponsor-logos/vader.jpg';
 import freshii from '../assets/images/sponsor-logos/freshii.jpg';
 import eusit from '../assets/images/sponsor-logos/eusit.jpg';
 import frost from '../assets/images/sponsor-logos/frost.jpg';
-import pic06 from '../assets/images/pic06.jpg';
+
+import carlos from '../assets/images/sponsor-logos/carlosandpepes.png';
+import djd from '../assets/images/sponsor-logos/desjardins.png';
+import lacite from '../assets/images/sponsor-logos/lacite.jpg';
+import matrox from '../assets/images/sponsor-logos/Matrox_Logo.svg.png';
+import diperie from '../assets/images/sponsor-logos/petit-logo-diperie.jpg';
+import spinergie from '../assets/images/sponsor-logos/spinergie.jpg';
+import TRU from '../assets/images/sponsor-logos/TRU-Logo-Vertical.png';
+import altos from '../assets/images/sponsor-logos/altos.png';
+import ipex from '../assets/images/sponsor-logos/ipex.png';
+
+
+
 
 
 
@@ -52,6 +64,25 @@ const Sponsors = (props) => (
     
         <img src={eusit} style={{ margin: '3rem 2rem', maxWidth: 100 }} alt=""/>
         <img src={frost} style={{ margin: '4rem 2rem', maxWidth: 100 }} alt=""/>
+        <img src={carlos} style={{ margin: '4rem 2rem', maxWidth: 100 }} alt=""/>
+        <img src={djd} style={{ margin: '4rem 2rem', maxWidth: 100 }} alt=""/>
+        <img src={lacite} style={{ margin: '4rem 2rem', maxWidth: 100 }} alt=""/>
+        <img src={matrox} style={{ margin: '5rem 2rem', maxWidth: 100 }} alt=""/>
+
+        <img src={diperie} style={{ margin: '4rem 2rem', maxWidth: 100 }} alt=""/>
+        <img src={spinergie} style={{ margin: '3rem 2rem', maxWidth: 100 }} alt=""/>
+        <img src={TRU} style={{ margin: '4rem 2rem', maxWidth: 100 }} alt=""/>
+        <img src={altos} style={{ margin: '4rem 2rem', maxWidth: 100 }} alt=""/>
+        <img src={ipex} style={{ margin: '4rem 2rem', maxWidth: 100 }} alt=""/>
+
+
+
+
+
+
+
+
+
 
 
 
