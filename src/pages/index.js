@@ -70,7 +70,7 @@ class Index extends React.Component {
                 </p>
                 <div id="btn">
                   <ul className="actions">
-                    <li><Link to="leaders" className="button "> 🙆‍♂️ Coords & Leaders 🙆</Link></li>
+                    <li><Link to="leaders" className="button ">Coords & Leaders</Link></li>
                   </ul>
                 </div>
 
