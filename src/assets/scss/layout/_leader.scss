@@ -15,7 +15,7 @@ div#item5 { //groups of 5
     /* To horizontally center images and caption */
     text-align: center;
    
-    width: 170px; //ideal width to ensure groups are centered
+    width: 179px; //ideal width to ensure groups are centered
     margin-left: auto;
     margin-right: auto;
     padding: 15px;
@@ -38,8 +38,8 @@ div#item4 { //groups of 4
 
 
 #item5 img {
-    width: 150px;
-    height: 150px;
+    width: 163px;
+    height: 163px;
 }
 
 #item4 img {
@@ -49,7 +49,7 @@ div#item4 { //groups of 4
 
 #caption {
     display: block;
-    font-size: 13px; //font may be too small, might change later depending on bio lengths
+    font-size: 15px; //font may be too small, might change later depending on bio lengths
     font-family: calibri; 
     text-align: justify;
 }
@@ -67,7 +67,7 @@ div#item4 { //groups of 4
 
 #Q1 {
   display: block;
-  font-family: Arial;
+  font-family: Helvetica;
   font-size: 13px;
   font-weight: bold;
   text-align: justify;

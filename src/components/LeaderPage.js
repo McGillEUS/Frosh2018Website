@@ -482,7 +482,7 @@ I have SO many puns and vine references </span>
             <img src={LaurieZ} style={{  }} alt="" /> 
             <span id ="name">Laurie Zaccarin</span>    
             <span id="homeyear">Quebec City</span>
-            <span id="homeyear">U2 Software Engineering</span>
+            <span id="homeyear">U2 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">A hammock, a self-filling pitcher of sangria and my cat Picasso</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -582,7 +582,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Rene} style={{  }} alt="" />    
             <span id ="name">René Gagnon</span> 
             <span id="homeyear">Rouyn-Noranda</span>
-            <span id="homeyear">U2 Electrical Engineering</span>
+            <span id="homeyear">U2 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">A bunch of fireworks, popcorn to enjoy the show and a Wilson volleyball ball for good company.</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -594,7 +594,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Xavier} style={{  }} alt="" /> 
             <span id ="name">Xavier Pellemans</span>    
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U2 Electrical Engineering</span>
+            <span id="homeyear">U2 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">A camping chair, a pink inflatable flamingo and beer (never know if there is drinkable water)</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -618,7 +618,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Rebecca} style={{  }} alt="" />  
             <span id ="name">Rebecca Weill</span>   
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U2 Software Engineering</span>
+            <span id="homeyear">U2 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">My dog, ojs poutine </span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -630,7 +630,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Stephanie} style={{  }} alt="" />  
             <span id ="name">Stéphanie Abdel Malek</span>   
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U2 Electrical Engineering</span>
+            <span id="homeyear">U2 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">A jar of Nutella, a dog and a can of Four Loko</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
@@ -647,49 +647,49 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Artsiom} style={{  }} alt="" />    
             <span id ="name">Artsiom Skliar</span> 
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">U3 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">A hammock, sunglasses, and a (few) bottle(s) of rum</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">BEACH DAY EVERY DAY</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Because you can't spell Party without Arty (and I'm a super responsible individual with lots of experience in emergency response and public relations)</span>
           </div> 
           <div id = "item5">
             <img src={Andrea} style={{  }} alt="" /> 
             <span id ="name">Andrea Huerta</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Lima, Peru</span>
+            <span id="homeyear">U3 Materials Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">speakers, my doggo, treats for my doggo </span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">b e a c h   d a y</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I don't wanna brag but i'm like super fun, I also look 18 and I want to think that makes me approachable</span>
           </div> 
           <div id = "item5">
             <img src={Luc} style={{  }} alt="" /> 
             <span id ="name">Luc Plamondon</span>    
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">U3 Civil Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Bugspray, a soccer ball and a grill.</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Pub crawl !!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I will always have gum or mints on me</span>
           </div> 
           <div id = "item5">
             <img src={Ethan} style={{  }} alt="" />  
             <span id ="name">Ethan Lague</span>   
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">U3 Eletrical Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">A speaker, an aux cord, and any device (with) Body by Loud Luxury on it.</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Showing the froshies how fun Mcgill can be if they put themselves out there and make friends. And Beach Day.</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I'm an experienced Montrealer so I can give tons of pointers on the best food spots, party spots, or whatever they're looking for. </span>
           </div> 
           <div id = "item5">
             <img src={Tristan} style={{  }} alt="" />  
@@ -712,61 +712,61 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Mathew} style={{  }} alt="" />    
             <span id ="name">Mathew Kfouri</span> 
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">U2 Mechanical Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">A pineapple pizza, a magic lamp and a box of 1000 ball bearings </span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">TOGA! TOGA!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I have cheesy taste in music and know my way around the city </span>
           </div> 
           <div id = "item5">
             <img src={AlexSassano} style={{  }} alt="" /> 
             <span id ="name">Alex Sassano</span>    
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">U4 Mining Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Anime body pillow,  grapefruit, rum ham</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">(blacking out at) beach day</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I always keep a shower kit in my fanny pack</span>
           </div> 
           <div id = "item5">
             <img src={Massy} style={{  }} alt="" /> 
             <span id ="name">Massy Mahamli</span>    
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">U2 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">my camera, a transat and cheese</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Everything!!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Because I'm the plug in all things software and I'll make sure you have the time of your life, also i'll take mad cute pics of you :)</span>
           </div> 
           <div id = "item5">
             <img src={Elijah} style={{  }} alt="" />  
             <span id ="name">Elijah Saragosa</span>   
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Saragosa</span>
+            <span id="homeyear">U4 Mining Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Some of Smirnoff Ice (to prank the other castaways), A solar powered portable DVD player and the boxset of some very long TV show</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Beach Day</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I try my best to ensure that everyone feels included and is having fun</span>
           </div> 
           <div id = "item5">
             <img src={Owen} style={{  }} alt="" />  
             <span id ="name">Owen Quinn</span>   
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Ottawa, ON</span>
+            <span id="homeyear">U1 Mechanical Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">A giant inflatable duck (for lounging purposes only), a hammock, a speaker (for jamming purposes only)</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Getting to hang more with rad engineers</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">"You are the single most entertaining person on this side of the planet" - my coworker sitting next to me</span>
           </div> 
 
           <div id = "group">
@@ -776,62 +776,62 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
           <div id = "item5">
             <img src={Brent} style={{  }} alt="" />    
             <span id ="name">Brent Coutts</span> 
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Vancouver, BC</span>
+            <span id="homeyear">U4 Chemical Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Bow, arrow, tightrope.... walk to mainland #engineering</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Breakfast "picnic" before beach day</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Like a waiter, you could say I bring a lot to the table.... Having frosh led before, I know how to make the most out of the week and the start of your McGill careers! :) </span>
           </div> 
           <div id = "item5">
             <img src={Ameer} style={{  }} alt="" /> 
             <span id ="name">Ameer Nizami</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Saint-Lambert</span>
+            <span id="homeyear">U4 Chemical Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">A mirror to flag for escape, a sponge and a starfish to make up my own spongebob episodes.</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Watching all these frehsmen try to handle liquor (if they want to). A true learning experience.</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I've been balling out here for over 3 years now so I have a deep understanding and experience of the Mcgill engineering ecosystem and can provide a thorough introduction to their new campus and how to best prepare for their next 4-5 years. </span>
           </div> 
           <div id = "item5">
             <img src={Delwyn} style={{  }} alt="" /> 
             <span id ="name">Delwyn Yit</span>    
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">U4 Materials Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Pool mattress, Water Skis, BE(v)ER(age)S</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Beach Day!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Being born and raised in Montreal me gives a slight advantage over the little tips & tricks around the city! Also because Beach day!</span>
           </div> 
           <div id = "item5">
             <img src={MichaelLi} style={{  }} alt="" />  
             <span id ="name">Michael Li Fraine</span>   
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">U4 Mechanical Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Surf Board, Bottle of Rum, Wilson</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">The laughs, the memories and all around craziness with awesome people </span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Cause I know how to have a good time and always got their back.</span>
           </div> 
           <div id = "item5">
             <img src={EmmaFerrabee} style={{  }} alt="" />  
             <span id ="name">Emma Ferrabee</span>   
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">London</span>
+            <span id="homeyear">U3 Chemical Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">some way of making fries, craft supplies (!!!) and a copy of every desert island discs, just for like. sympathetic company. </span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Wearing the same shirt for three days!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Because I plan intricate breakfast picnics </span>
           </div> 
 
           <div id = "group">
@@ -841,50 +841,50 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
           <div id = "item5">
             <img src={Mat} style={{  }} alt="" />    
             <span id ="name">Mathieu Njoo</span> 
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Ottawa, ON</span>
+            <span id="homeyear">U3 Civil Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">"Vector Mechanics for Engineers, 10th Edition" for fire, spaghetti to build a bridge, dry socks.</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Chill night</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Proud advocate of 2AM food runs</span>
           </div> 
           <div id = "item5">
             <img src={Francois} style={{  }} alt="" /> 
             <span id ="name">Francois Eliott Rousseau</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Hong Kong</span>
+            <span id="homeyear">U3 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">McGill Id card, Math 133 Syllabus an one Domino's Discount coupon </span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Scavenger Hunt </span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Apparently I'm funny while wearing a fanny pack</span>
           </div> 
           <div id = "item5">
             <img src={Cedric} style={{  }} alt="" /> 
             <span id ="name">Cedric Welt</span>    
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">U2 Civil Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Solar Powered Speaker, soccer ball, a doggo</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Beach Day!! and being able to have fun and show all the new froshies all the fun mcgill has to offer!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I will be responsible and never force anything onto anyone. I'll also listen to anything my froshie asks and help them every time. I'll also be the funnest leader to be around!!</span>
           </div> 
           <div id = "item5">
             <img src={Laurence} style={{  }} alt="" />  
             <span id ="name">Laurence Peinturier</span>   
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Quimper, France</span>
+            <span id="homeyear">U2 Mechanical Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Une baguette, une bouteille de vin et un bon Comté</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">BeAcH DaY.</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I'm 5 feet tall...They can rest their elbows on my head if they feel tired...</span>
           </div> 
           <div id = "item5">
             <img src={Tristan} style={{  }} alt="" />  
@@ -906,50 +906,50 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
           <div id = "item4">
             <img src={MarieClaire} style={{  }} alt="" />    
             <span id ="name">Marie-Claire Hamel</span> 
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Boucherville (B-TOWN)</span>
+            <span id="homeyear">U4 Civil Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">my bed, chocolate and off to kill mosquitos</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Group rallies because they are often more fun than the actual party and that's where you meet so many beautiful people (heart) also, BEACH DAY !!!!!!!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I'll teach you life bruh. For realz, i keep my group entertain, I'm always there for my froshies and i love dogs</span>
           </div> 
           <div id = "item4">
             <img src={Thierry} style={{  }} alt="" /> 
             <span id ="name">Thierry Pichette</span>    
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">U4 Mechanical Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Duct tape, a giant 6ft water baloon for cussion and a pair of shades</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Meeting new awesome people</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Cool vibes, no judgment and soo much hype!</span>
           </div> 
           <div id = "item4">
             <img src={Maxence} style={{  }} alt="" /> 
             <span id ="name">Maxence Frenette</span>    
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">U4 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">My hammock, a watermelon and some jello (for the watermelon).</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">The Montreal Crawl !</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Because we'll have the best group name !</span>
           </div> 
           <div id = "item4">
             <img src={TristanBouchard} style={{  }} alt="" />  
             <span id ="name">Tristan Bouchard</span>   
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Longueuil</span>
+            <span id="homeyear">U3 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Uncle Ben's Brocoli Cheddar Minute Rice, a surfboard and my Ukulele.</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">TOGA</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I'm always pretty hyped and can always hype people!</span>
           </div> 
 
           <div id = "group">
@@ -959,62 +959,62 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
           <div id = "item5">
             <img src={Cheng} style={{  }} alt="" />    
             <span id ="name">Cheng Lin</span> 
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Toronto, ON</span>
+            <span id="homeyear">U1 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Hiking boots, a good book, soccer ball</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Making new friends!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I know I'll try my best to create a fun and inclusive four days. Not only do I love engineering, I also love music, social issues, non-engineering extracurriculars--the list goes on. As a result, I'm always happy to strike up a conversation with new people! By being open and approachable, I hope my Froshies will feel comfortable and supported, both during and after Frosh.</span>
           </div> 
           <div id = "item5">
             <img src={AlexGruenwald} style={{  }} alt="" /> 
             <span id ="name">Alex Gruenwald</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Brisbane, Australia</span>
+            <span id="homeyear">U2 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Toilet, toilet paper, up to date newspaper</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Meeting such a diverse number of people and the EVENTS</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I am always smiling and exude a positive attitude. I love to have fun and be immature sometimes; something some people might relate to. Always make sure everyone is involved and no one is left out</span>
           </div> 
           <div id = "item5">
             <img src={Jonathan} style={{  }} alt="" /> 
             <span id ="name">Jonathan Ong</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Lancaster, Pennsylvania</span>
+            <span id="homeyear">U1 Chemical Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">my Birkenstocks, Secret Aardvark Habanero Hot Sauce, and Charmin Ultra Strong Toilet Paper</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">The responsibility of giving froshies food recommendations and the colored Frosh shirts</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I know where the best Asian food is in Montreal, and I have possibly helpful opinions on basically everything!</span>
           </div> 
           <div id = "item5">
             <img src={Preyansh} style={{  }} alt="" />  
             <span id ="name">Preyansh Kaushik</span>   
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Kigali, Rwanda</span>
+            <span id="homeyear">U2 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">netflix, a crate of 1664, and hummus</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">the chef on call stop</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">for an inclusive fun-filled time, cool pics for ig, and tons of conversation</span>
           </div> 
           <div id = "item5">
             <img src={K} style={{  }} alt="" />  
             <span id ="name">Kenji Marshall</span>   
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Burlington</span>
+            <span id="homeyear">U1 Bioengineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Solar powered boombox, collection of mood-setting mixtapes, Natalie Portman</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">I really want a fanny pack, to not sleep through beach day, and to bond with some froshies!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I'll do whatever it takes to have a good time, whether that's singing, dancing, relaxing, or talking about love, music, and school. I want to make frosh awesome for everybody.</span>
           </div> 
 
           <div id = "group">
@@ -1025,49 +1025,49 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={RyanZel} style={{  }} alt="" />    
             <span id ="name">Ryan Zelnicker</span> 
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">U2 Chemical Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">My laptop, a hammock and an infinite supply of plumber's pockets</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">PUB CRAWL!y</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I'll make sure that they have the best and most memorable 4 days of the whole school year</span>
           </div> 
           <div id = "item5">
             <img src={Tal} style={{  }} alt="" /> 
             <span id ="name">Tal Abravanel</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Istanbul, Turkey</span>
+            <span id="homeyear">U2 Mechanical Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">A pillow, a sword and a metal detector</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">meeting new people and the fun events waiting for us</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">rather than being their leader I will try to become friends with them and will give them an opportunity of meeting other first years from other faculties as well through my friends from other faculties who are frosh leading</span>
           </div> 
           <div id = "item5">
             <img src={Michel} style={{  }} alt="" /> 
             <span id ="name">Michel Abdel Nour</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Beirut</span>
+            <span id="homeyear">U2 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">mirror, fireworks and a lot of drinkable water</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Beach Dayyy</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I am super friendly and easy to talk to</span>
           </div> 
           <div id = "item5">
             <img src={Joel} style={{  }} alt="" />  
             <span id ="name">Joel Kogan</span>   
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Cote Saint-Luc</span>
+            <span id="homeyear">U2 Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Fishing net, matches, deck of cards</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">I'm most excited about meeting new people and being an integral part to froshies' introductions to McGill.</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Because I'm fun and put others before myself</span>
           </div> 
           <div id = "item5">
             <img src={Tristan} style={{  }} alt="" />  
@@ -1090,38 +1090,38 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
           <div id = "item4">
             <img src={eleri} style={{  }} alt="" />    
             <span id ="name">Eleri Moynagh</span> 
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Toronto</span>
+            <span id="homeyear">U4 Civil Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">A hammock, puppies, and beer on tap</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">To have some FUN in the SUN</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Having frosh led (more than) a few times before, by the end of frosh I'm not just your leader but your friend too!! I will also be showing off an extensive bucket hat collection - and if you like to ski/snowboard, we'll get along just fine. </span>
           </div> 
           <div id = "item4">
             <img src={Ian} style={{  }} alt="" /> 
             <span id ="name">Ian Gauthier</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Longmeadow MA</span>
+            <span id="homeyear">U3 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Three bottles of sunscreen. I need em tbh</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">I'm always ecstatic to meet the new froshies and make some friendships along the way.</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I'm excited and eager to jump into frosh. You will be hard pressed to find someone as hyped as me for the week.</span>
           </div> 
           <div id = "item4">
             <img src={AlexScheffel} style={{  }} alt="" /> 
             <span id ="name">Alex Scheffel</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">The city that fun forgot (O-Town)</span>
+            <span id="homeyear">U3 Mechanical Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Probably 3 of the elevators from Burnside</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Meeting my group!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I can maybe probably hopefully teach them a thing or two about the EUS</span>
           </div> 
           <div id = "item4">
             <img src={Tristan} style={{  }} alt="" />  
@@ -1144,179 +1144,186 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Vassil} style={{  }} alt="" />    
             <span id ="name">Vassil Kroumov</span> 
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Mechanical Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">My family, a flamethrower, an axe </span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">I am most excited to have fun with the froshies and participate to all the activities that were so fun during Frosh 2017 (Beach Club, Toga party, Pub Crawl, etc.) while remembering these nights this year!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I am a passionate and really outgoing person which will always make everybody feel accepted and comfortable in a group!</span>
           </div> 
           <div id = "item5">
             <img src={annejulie} style={{  }} alt="" /> 
             <span id ="name">Anne-Julie Côté</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Quebec City</span>
+            <span id="homeyear">U2 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">A big bag of popcorn, a good ole pair of crocs and hella sunscreen</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Meeting Froshies and the scavenger hunt</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Because I'm nice, I always have water and hand sanitizer on me, plus I'm good at learning names :)</span>
           </div> 
           <div id = "item5">
             <img src={Emeric} style={{  }} alt="" /> 
             <span id ="name">Emeric Bernier</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">LECLERCVILLE, QC</span>
+            <span id="homeyear">U2 Mechanical Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">DEODORANT, MY MOM (STILL GOTTA COOK AND DO LAUNDRY SMH) AND A JET SKI</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">MEETING PEEPS</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
-          </div> 
-          <div id = "item5">
-            <img src={Mario} style={{  }} alt="" />  
-            <span id ="name">Mario Lipari</span>   
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
-            <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
-            <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
-            <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">ALWAYS ENERGETIC AND I KINDA LIKE PROBLEM SOLVING</span>
           </div> 
           <div id = "item5">
             <img src={Lara} style={{  }} alt="" />  
             <span id ="name">Lara Ghanem</span>   
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Jounieh (Lebanon)</span>
+            <span id="homeyear">U1 Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Beer friends and more beer</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Beach day everyday</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I am always hyped</span>
+          </div> 
+          <div id = "item5">
+            <img src={Lara} style={{  }} alt="" />  
+            <span id ="name">Mario Lipari</span>   
+            <span id="homeyear">Varennes, Québec</span>
+            <span id="homeyear">U2 Mechanical Engineering</span>
+            <span id="Q1"> What 3 things would you bring to a desert island?</span>
+            <span id="caption">Duck tape, duck tape and more duck tape (I can make myself a boat)</span>
+            <span id="Q1">What are you most excited about for Frosh?</span>
+            <span id="caption">BEACH DAY EVERYDAY</span>
+            <span id="Q1">Why would a Froshie want you as their leader?</span>
+            <span id="caption">Because I am ready to have fun with them and to take care of them if they go too hard. </span>
           </div> 
 
           <div id = "group">
             <h4> Group 16 </h4>
           </div>
 
-         <div id = "item5">
+          <div id = "item5">
             <img src={Reda} style={{  }} alt="" />    
             <span id ="name">Mohamed Reda El Khili</span> 
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Rabat, Morocco</span>
+            <span id="homeyear">U3 ECSE/span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Mayonnaise, Drake's last album and a soccer ball</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Beach Day !</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Because I'm super funny !! and of course responsible. I am also a fourth year student which means I have a lot of advices to give them.</span>
+          </span>
           </div> 
+
+
           <div id = "item5">
             <img src={Isabelle} style={{  }} alt="" /> 
             <span id ="name">Isabelle del Mundo</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Trophy Club, TX. </span>
+            <span id="homeyear">U4 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">sun screen, a wifi hotspot, and a smart speaker</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">To get all the new students excited about the engineering community! </span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I can tell you how to not make the same mistakes I did in my first year :) </span>
           </div> 
+
           <div id = "item5">
             <img src={Nima} style={{  }} alt="" /> 
             <span id ="name">Nima Chattani</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">San Diego, CA</span>
+            <span id="homeyear">U3 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">My laptop, Vanilla Almond Butter, and season 5 of silicon valley </span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Meeting new froshies!! </span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
-          </div> 
+            <span id="caption">I'm super committed to making sure every froshie is having a good experience and feels included! </span>
+          </div>
+
           <div id = "item5">
             <img src={Tristan} style={{  }} alt="" />  
             <span id ="name">Charles Brana</span>   
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Le Déron</span>
+            <span id="homeyear">U3 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Sunglasses, a hat and a volleyball ;)</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">The fake test</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Because I am fun but serious when needes</span>
           </div> 
+
           <div id = "item5">
             <img src={Oliver} style={{  }} alt="" />  
             <span id ="name">Oliver Verzani</span>   
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Boston</span>
+            <span id="homeyear">Management 2019</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">a deck of cards, a blow up unicorn floatie, a straw for the coconuts</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Getting the chance to learn about all the places/cultures my froshies came from.</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I will not only lead a froshie through orientation, I will continue to help guide them them through the beginning of their entire McGill experience.</span>
           </div> 
 
           <div id = "group">
             <h4> Group 17 </h4>
           </div>
 
-          <div id = "item4">
+          <div id = "item4">I will not only lead a froshie through orientation, I will continue to help guide them them through the beginning of their entire McGill experience.To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortcuts, press Ctrl+slash
+
             <img src={Kelly} style={{  }} alt="" />    
             <span id ="name">Kelly Ma</span> 
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Vancouver, BC</span>
+            <span id="homeyear">U1 ECSE (previously U1 BIEN 😢)</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">1. Settlers of Catan WITH extension packs 2. Three floofs 3. Food for my three floofs</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Frosh FOOD 🍽</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I'm a great listener and I'm very open-minded!</span>
           </div> 
           <div id = "item4">
             <img src={Cara} style={{  }} alt="" /> 
             <span id ="name">Cara Zhang</span>    
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">U2 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">electrified bug killing racket, tiger balm and alcohol (cuz better drunk stranded than sober stranded)</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">BEACH CLUB!!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Because I'm a very hype but also considerate person as a whole who loves to have fun</span>
           </div> 
           <div id = "item4">
             <img src={Christos} style={{  }} alt="" /> 
             <span id ="name">Christos Cunning</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Vancouver BC</span>
+            <span id="homeyear">U1 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">A years supply of bagels (st. viateur's of course), smoked salmon , and cream cheese.</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">To introduce all my froshies to the many awesome things McGill and Montreal have to offer!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">So I can recommend them all the best bagel spots in Montreal!</span>
           </div> 
           <div id = "item4">
             <img src={Tristan} style={{  }} alt="" />  
             <span id ="name">Paul Hooley</span>   
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Milan</span>
+            <span id="homeyear">U2 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Dog, Frisbee, Water Filter</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Beach day</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Im approachable, easy-going and nice</span>
           </div> 
 
           <div id = "group">
@@ -1327,49 +1334,49 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={AndiCamille} style={{  }} alt="" />    
             <span id ="name">Andi Bakti</span> 
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">U3 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Survival for Dummies,  a copy of The Room and any current president as leverage for when I want to be saved</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Seeing how much my froshies will change from their first day to their last</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">If you enjoy horrendous attempts at comedy and flamboyant dance moves then I'll be the ideal leader for you!</span>
           </div> 
           <div id = "item4">
             <img src={RosalieGuay} style={{  }} alt="" /> 
             <span id ="name">Rosalie Guay</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Saint-Georges</span>
+            <span id="homeyear">U3 Civil Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">...</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">people</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Because i am funnyyy</span>
           </div> 
           <div id = "item4">
             <img src={AlexanderTorabi} style={{  }} alt="" /> 
             <span id ="name">Alexander Torabi</span>    
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">U3 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">AirPods, My American Express since they say "don't leave home without it.", Fishing pole</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Meeting my forshies and giving them the best time of their life before they start McGill for the first time</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Living in Montreal my whole life, I have discovered this city and all the beautiful things it has to offer, and cannot wait to share it all with them.</span>
           </div> 
           <div id = "item4">
             <img src={Tristan} style={{  }} alt="" />  
             <span id ="name">Karine Flamand</span>   
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Leawood, Kansas, USA</span>
+            <span id="homeyear">Super Senior Civil</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">60 SPF Sunscreen, a polar bear, and a volleyball </span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">New friends!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I ask myself this everyday</span>
           </div> 
 
           <div id = "group">
@@ -1379,50 +1386,51 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
           <div id = "item4">
             <img src={KevinCole} style={{  }} alt="" />    
             <span id ="name">Kevin Cole</span> 
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Leawood, Kansas, USA</span>
+            <span id="homeyear">Super Senior Civil</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">60 SPF Sunscreen, a polar bear, and a volleyball </span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">New friends!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I ask myself this everyday</span>
+          </div> 
           </div> 
           <div id = "item4">
             <img src={Nicole} style={{  }} alt="" /> 
             <span id ="name">Nicole Thoma</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Boston, Massachusetts</span>
+            <span id="homeyear">U1 Mechanical Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">A wii, the wii game "Just Dance", and peanut butter</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Dancing to some jams with all my new froshie friends</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Because I am fun and welcoming and just experienced frosh and my first year of uni so I am full of advice and experience that I want to share!!</span>
           </div> 
           <div id = "item4">
             <img src={Amanda} style={{  }} alt="" /> 
             <span id ="name">Amanda Forsans</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Long Lake, Minnesota</span>
+            <span id="homeyear">U2 Civil Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">A keg, 5 good friends and a disco ball</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Showing my love for my school to incoming students</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I'm a welcoming and easy person to talk to</span>
           </div> 
           <div id = "item4">
             <img src={Will} style={{  }} alt="" />  
             <span id ="name">Will Connors</span>   
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Chester, Nova Scotia</span>
+            <span id="homeyear">U3 Civil Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Surfboard, dancing shoes, and a lavender suit</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">The opportunity to give a warm welcome to all of the beautiful new faces at McGill.</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">My priority is that everyone has fun and meets their potential university best friends. I am happy to vibe at any level of energy to help everyone be comfortable in their new environment.</span>
           </div> 
 
           <div id = "group">
@@ -1433,49 +1441,49 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Sydney} style={{  }} alt="" />    
             <span id ="name">Sydney Netto</span> 
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">U2 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">case of 24, some basha sandwiches, a blanket</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">getting the froshies to love mcgill</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">BECAUSE IM READY TO LEAD THEM TO THE BEST WEEKEND EVER</span>
           </div> 
           <div id = "item4">
             <img src={JuliaR} style={{  }} alt="" /> 
             <span id ="name">Julia Rafferty</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">San Francisco</span>
+            <span id="homeyear">U1 Civil Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">3 kilos of Swedish Fish (better nutrition than ocean fish), a solar powered freezer full of Frostbite and a crate of rainbow drink umbrellas. </span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Meet the incoming Engineers, explore Montreal</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Friendly, inclusive, knowledgeable, prepared, will shave head for the Scunt?</span>
           </div> 
           <div id = "item4">
             <img src={Alice} style={{  }} alt="" /> 
             <span id ="name">Alice Lemay</span>    
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">U2 Architecture</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">A Nintendo DS, a nail file and a mirror to not be too lonely)</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">BEACH DAY EVERY DAY</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Im pretttyyy fun</span>
           </div> 
           <div id = "item4">
             <img src={NicolasBieber} style={{  }} alt="" />  
             <span id ="name">Nicolas Bieber</span>   
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Oslo</span>
+            <span id="homeyear">U1 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">A lot of lego, balloons, and duct tape</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Beach day.</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Because I want my Froshies to have fun, so I'll take care of them:)</span>
           </div> 
 
           <div id = "group">
@@ -1485,50 +1493,50 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
           <div id = "item4">
             <img src={Traven} style={{  }} alt="" />    
             <span id ="name">Traven Blaney</span> 
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">White Rock, BC</span>
+            <span id="homeyear">U3 Civil Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">A pet monkey to bring me fruit all day, Batman, and 2 water guns (one for me, one for the monkey)</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Pub Crawl to show the Froshies how fun Montreal is.</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I'm easy going and vow to make sure all my Froshies stay hydrated. I was also captain of my 3rd grade soccer team so</span>
           </div> 
           <div id = "item4">
             <img src={RyanWong} style={{  }} alt="" /> 
             <span id ="name">Ryan Wong</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Vancouver, BC</span>
+            <span id="homeyear">U2 Materials Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">My camera, a lifetime supply of dynamite sushi rolls, and a Bluetooth speaker with Bohemian Rhapsody – by Queen playing.</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Meeting my froshies and having fun with them on pub crawl.</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">This is my third year frosh leading; can provide the ultimate frosh survival guide. And I love meeting new people and I am easy going.</span>
           </div> 
           <div id = "item4">
             <img src={Denise} style={{  }} alt="" /> 
             <span id ="name">Denise Bridges</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Oakville, ON</span>
+            <span id="homeyear">U3 Materials Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">A golden retriever, a lifetime supply of coffee, and a unicorn floatation device </span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Pub crawl (10/10 recommend) and all the fun in the sun </span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I'm not just any frosh mom, I'm a cool frosh mom! </span>
           </div> 
           <div id = "item4">
             <img src={Julia} style={{  }} alt="" />  
             <span id ="name">Julia Elson</span>   
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Vancouver, BC</span>
+            <span id="homeyear">U3 Chemical Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">MY VITAMIX legit the most life-changing blender. Now I can make delicious smoothies with island fruits!!! Then I’ll need sunscreen because I even burn with it on sometimes :( finally I’ll need a companion so I won’t get bored, so probably Tupac. </span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">BEACH DAY EVERY DAY!!! Lol jk probably getting to show the froshies how amazing Montreal is as a city to live in as a student!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I’m a friendly introvert! I know what it’s like to be a wallflower or shy during frosh, because I’ve been there! Whatever your personality, I’ll do my best to make sure everyone has a great time and feels safe and included. </span>
           </div> 
 
           <div id = "group">
@@ -1538,50 +1546,50 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
           <div id = "item4">
             <img src={Amy} style={{  }} alt="" />    
             <span id ="name">Amy Hayes</span> 
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Timmins ON</span>
+            <span id="homeyear">U2 Chemical Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Perry's Chemical Engineers' Handbook, Transport Processes and Unit Operations, and of course my handy steam table.</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Scouting for froshies to join McGill Formula Electric #BestDesignTeam #LikeUsOnFacebook</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I'm not a regular mom, I'm a cool mom.</span>
           </div> 
           <div id = "item4">
             <img src={Khalis} style={{  }} alt="" /> 
             <span id ="name">Khalis Khaleel</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Colombo, Sri Lanka</span>
+            <span id="homeyear">U1 Materials Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">McGill ID, sunscreen and a 200 pcs Timbits™ box for nutrition.</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Meeting new people!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Friendly and Approachable 24/7</span>
           </div> 
           <div id = "item4">
             <img src={Danny} style={{  }} alt="" /> 
             <span id ="name">Danny Amon</span>    
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">U3 Bioresource</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Spotify premium, a hammock and a volleyball </span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Insert corny line about meeting new friends</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Cuz I'm a very decent person</span>
           </div> 
           <div id = "item4">
             <img src={SarahJ} style={{  }} alt="" />  
             <span id ="name">Sarah Jurchuk</span>   
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">U2 Bioengineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Lifetime supply of chocolate, a pillow, and my favorite shampoo and conditioner</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Pub Crawl</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I always have snacks!!</span>
           </div> 
 
           <div id = "group">
@@ -1591,50 +1599,50 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
           <div id = "item4">
             <img src={SamBaker} style={{  }} alt="" />    
             <span id ="name">Sam Baker</span> 
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Calgary, AB</span>
+            <span id="homeyear">U2 Bioengineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">All 9 seasons of The Office, my cowboy hat, and an accordion.</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">It sounds like this year we will have Beach Day every day!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">My 10 second Nalgene water chug #hydrationissexy</span>
           </div> 
           <div id = "item4">
             <img src={Jenny} style={{  }} alt="" /> 
             <span id ="name">Jenny Li</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Abbotsford, BC</span>
+            <span id="homeyear">U2 Mechanical Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">snorkel gear, tanning oil and a jug of pina colada</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">pub crawl!!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I'm REALLY responsible (especially during pub crawl)</span>
           </div> 
           <div id = "item4">
             <img src={Tristan} style={{  }} alt="" /> 
             <span id ="name">Sam Cattani</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Winnipeg</span>
+            <span id="homeyear">U2 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">3 dogs</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Pub crawl!!!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I'll make you drink water (pls stay hydrated)</span>
           </div> 
           <div id = "item4">
             <img src={Donya} style={{  }} alt="" />  
             <span id ="name">Donya Hojabr</span>   
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Kingston, ON</span>
+            <span id="homeyear">U2 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Vua tofu sandwich, a toonie (for 3 samosas, hoping there's a sale) and Jenny Li</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">I'm most excited to show all the Froshies how awesome the engineering community is at McGill</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I've mastered the art of icebreakers  </span>
           </div> 
 
           <div id = "group">
@@ -1645,61 +1653,61 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Noam} style={{  }} alt="" />    
             <span id ="name">Noam Rabbani</span> 
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">U4 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">A mask, fins and a snorkel so that I can snorkel my last days away</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">The atmosphere during orientation week because it's amazing</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Because I know about a place to eat for free on campus and I will only tell my froshies about it. No one else. Ever.</span>
           </div> 
           <div id = "item5">
             <img src={Shane} style={{  }} alt="" /> 
             <span id ="name">Shane Rankin</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Ottawa, ON</span>
+            <span id="homeyear">U3 Chemical Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Catan, 5x5 Rubik's Cube, Spikeball</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Beach Day! Bus ride especially haha gets wild</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I'm very approachable and always looking for the next fun thing to do!</span>
           </div> 
           <div id = "item5">
             <img src={Andre} style={{  }} alt="" /> 
             <span id ="name">Andre Lee</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Vancouver</span>
+            <span id="homeyear">U3 Chemical Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">definitely my 3 other cO-lEaDErs</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Drinking H2O</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I am easy to talk to </span>
           </div> 
           <div id = "item5">
             <img src={AnnaSymon} style={{  }} alt="" />  
             <span id ="name">Anna Symon</span>   
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">U2 Chemical Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">David, Lara and Anne-Julie</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">meeting my froshies</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Im the coolest</span>
           </div> 
           <div id = "item5">
             <img src={DavidDesmangles} style={{  }} alt="" />  
             <span id ="name">David Desmangles</span>   
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">U2 Chemical Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">SAFTB flag, Tarps for a slip n' slide, a Rasta hat.</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Sharing an exciting week with new friends before the semester starts.</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I'm the hype man they didn't know they needed</span>
           </div> 
 
           <div id = "group">
@@ -1710,61 +1718,61 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Aidan} style={{  }} alt="" />    
             <span id ="name">Aidan Sullivan</span> 
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">U3 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">2 African swallows, some string, and a coconut</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Meeting cool new people and showing them where the good times are</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Cause I want people to be happy, and my friends think I'm cool</span>
           </div> 
           <div id = "item5">
             <img src={Zoheir} style={{  }} alt="" /> 
             <span id ="name">Zoheir Seddiki</span>    
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Materials U3 Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Beyoncé, Kelly and Michelle singing "Survivor"</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Beach Day !!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I am both a hype man and a mom friend</span>
           </div> 
           <div id = "item5">
             <img src={Marine} style={{  }} alt="" /> 
             <span id ="name">Marine Fitsch-Mouras</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Strasbourg, France</span>
+            <span id="homeyear">U3 Chemical Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">A bluetooth speaker, a deck of cards and a hammock</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Meeting my froshies</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Because we will be the nicest, hypest, funnest (we wil make it a word) group of all</span>
           </div> 
           <div id = "item5">
             <img src={Paul} style={{  }} alt="" />  
             <span id ="name">Paul Fournier</span>   
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Paris</span>
+            <span id="homeyear">ECSE U3</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Nutella, nutella and more nutella !</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Getting to show Montreal and McGill to freshmen.</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Because I was a boyscout and I know all about survival on deserted island.</span>
           </div> 
           <div id = "item5">
             <img src={Pedro} style={{  }} alt="" />  
             <span id ="name">Pedro Leite</span>   
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Sao Paulo, Brazil</span>
+            <span id="homeyear">U4 Mechanical Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Definitely some swim trunks, a football, and some beer :)</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Meeting all the new faces</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">Did you know I can eat 1 pound of hummus in under 3 min?</span>
           </div> 
 
           <div id = "group">
@@ -1775,49 +1783,49 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={floflo} style={{  }} alt="" />    
             <span id ="name">Florence Diep</span> 
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">U3 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">The tallest ladder, the longest extendable grabber and coffee beans because I'm a smol person who can't live without coffee</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">Meeting Froshies and telling them about the cool stuff at McGill! Day events is also a ~fantastic~ time, and looking forward to making the best memories!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I'll always be available to lend an ear with open arms and to help you. There's always a way to make Frosh fun and I can definitely show you the way!</span>
           </div> 
           <div id = "item5">
             <img src={Vignesh} style={{  }} alt="" /> 
             <span id ="name">Vignesh Pushparaj</span>    
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Colombo, Sri Lanka</span>
+            <span id="homeyear">U3 Mechanical Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">Tres doggos</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">beach day 🏖️</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I have many dank memes.</span>
           </div> 
           <div id = "item5">
             <img src={Julian} style={{  }} alt="" /> 
             <span id ="name">Julian Pucella</span>    
             <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">U2 Civil Engineering</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">A book I won't read (will probably double as a pillow), SPF 100, and the knowledge that the mitochondria is the powerhouse of the cell.</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">The chance to meet countless people in my faculty/school who share the same interests as me. Also I am excited for Beach day, because I never had the chance to attend it during my own frosh. </span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I am also newly admitted student to the Faculty of Engineering, so it'll fun to experience the downtown community and culture with other new students. As well frosh was such a memorable time in my first year, so I hope to replicate the same for all of my froshies by creating a fun, inclusive environment. </span>
           </div> 
           <div id = "item5">
             <img src={Ousmane} style={{  }} alt="" />  
             <span id ="name">Ousmane Baricisse</span>   
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U1.5 Engineering</span>
+            <span id="homeyear">Benin</span>
+            <span id="homeyear">U1 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Salt, Lime, Tequila</span>
+            <span id="caption">A Soccer ball, clits, and definitely water!!!</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Beach day every day, Beachday Everyday</span>
+            <span id="caption">spend the week exploring the Campus and montreal while, most importantly, having fun!!!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I have a PhD in drunk Froshie studies </span>
+            <span id="caption">I will try to create a friendly environment where every students get involved in frosh activities while the lots of fun as well as good and memorable times.</span>
           </div>  
           <div id = "item5">
             <img src={Tristan} style={{  }} alt="" />  
@@ -1835,7 +1843,7 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
 
 
             
-          </div>
+        
     
         </section>
 
