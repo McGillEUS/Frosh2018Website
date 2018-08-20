@@ -1209,18 +1209,14 @@ To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortc
             <img src={Reda} style={{  }} alt="" />    
             <span id ="name">Mohamed Reda El Khili</span> 
             <span id="homeyear">Rabat, Morocco</span>
-            <span id="homeyear">U3 ECSE/span>
+            <span id="homeyear">U3 ECSE</span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
             <span id="caption">Mayonnaise, Drake's last album and a soccer ball</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
             <span id="caption">Beach Day !</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-<<<<<<< HEAD
             <span id="caption">Because I'm super funny !! and of course responsible. I am also a fourth year student which means I have a lot of advices to give them.</span>
-          </span>
-=======
             <span id="caption">I have a PhD in dick suckin </span>
->>>>>>> ead1ff9f7fa05e664712802a734f3db1805c4d7d
           </div> 
 
 
