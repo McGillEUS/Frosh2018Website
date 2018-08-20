@@ -1172,7 +1172,6 @@ const LeaderPage = (props) => (
             <span id="caption">Beach Day !</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
             <span id="caption">Because I'm super funny !! and of course responsible. I am also a fourth year student which means I have a lot of advices to give them.</span>
-            <span id="caption">I have a PhD in dick suckin </span>
           </div> 
 
 
