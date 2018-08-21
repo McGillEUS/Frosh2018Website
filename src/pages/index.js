@@ -8,6 +8,7 @@ import Header from '../components/Header'
 import Nav from '../components/Nav'
 import Schedule from '../components/Schedule'
 import Sponsors from '../components/Sponsors'
+import ScheduleImg from '../assets/images/themedschedule.jpg'
 
 
 
@@ -65,34 +66,53 @@ class Index extends React.Component {
                  The team of Engineering Frosh Coordinators, composed entirely of engineering 
                  students, has been working hard all summer to bring you the most exciting week 
                  possible. Check out our event trailer and our Facebook/Instagram pages below, 
-                 and email us any time at oweek.communications@mcgilleus.ca. Stay tuned for the 
-                 opening of registration in early August!
+                 and email us any time at oweek.communications@mcgilleus.ca.
                 </p>
                 <div id="btn">
                   <ul className="actions">
-                    <li><Link to="leaders" className="button ">Coords & Leaders</Link></li>
+                    <li><Link to="leaders" className="button special">Coords & Leaders</Link></li>
                   </ul>
                 </div>
 
               <div id="btn">
                 <ul className="actions">
-                  <li><Link to="faq" className="button ">✏️ Frequently Asked Questions 📒</Link></li>
+                  <li><Link to="faq" className="button special">Frequently Asked Questions</Link></li>
                 </ul>
               </div>
 
+               <div id="btn">
+                <ul className="actions">
+                  <li><Link to="resources" className="button special">Resources</Link></li>
+                </ul>
+              </div>
+
+               <div id="btn">
+                <ul className="actions">
+                  <li><a href="http://oweek.mcgilleus.ca/bursary.pdf" className="button special">Bursary Application</a></li>
+                </ul>
+              </div>
+
+               <div id="btn">
+                <ul className="actions">
+                  <li><a href="http://www.mcgill.ca/firstyear/mcgilloweek/" className="button special">Register now!</a></li>
+                </ul>
+              </div>
               <div className = "responsive">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZZYzRyheZG4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
               </div>
 
-                <ul className="actions">
-                  <li><a href="http://www.mcgill.ca/firstyear/mcgilloweek/" className="button special">Register now!</a></li>
-                </ul>
 
               </div>
             </div>
           </section>
 
-          
+          <section id="second" className="main special">
+              <h2>Schedule</h2>
+              <div id="max-width-schedule">
+              <img src={ScheduleImg} style={{  }} alt=""></img>
+              </div>
+
+          </section>
 
           <section id="second" className="main special">
               <h2>Sponsors</h2>

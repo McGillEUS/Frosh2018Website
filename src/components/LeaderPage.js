@@ -991,19 +991,31 @@ const LeaderPage = (props) => (
             <h4> Group 13 </h4>
           </div>
 
-          <div id = "item5">
-            <img src={RyanZel} style={{  }} alt="" />    
-            <span id ="name">Ryan Zelnicker</span> 
-            <span id="homeyear">Montreal</span>
-            <span id="homeyear">U2 Chemical</span>
+          <div id = "item4">
+            <img src={Jenny} style={{  }} alt="" /> 
+            <span id ="name">Jenny Li</span>    
+            <span id="homeyear">Abbotsford, BC</span>
+            <span id="homeyear">U2 Mechanical </span>
             <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">My laptop, a hammock and an infinite supply of plumber's pockets</span>
+            <span id="caption">snorkel gear, tanning oil and a jug of pina colada</span>
             <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">PUB CRAWL!</span>
+            <span id="caption">pub crawl!!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I'll make sure that they have the best and most memorable 4 days of the whole school year</span>
+            <span id="caption">I'm REALLY responsible (especially during pub crawl)</span>
           </div> 
-          <div id = "item5">
+          <div id = "item4">
+            <img src={Wilson} style={{  }} alt="" /> 
+            <span id ="name">Sam Cattani</span>    
+            <span id="homeyear">Winnipeg</span>
+            <span id="homeyear">U2 ECSE</span>
+            <span id="Q1"> What 3 things would you bring to a desert island?</span>
+            <span id="caption">3 dogs</span>
+            <span id="Q1">What are you most excited about for Frosh?</span>
+            <span id="caption">Pub crawl!!!</span>
+            <span id="Q1">Why would a Froshie want you as their leader?</span>
+            <span id="caption">I'll make you drink water (pls stay hydrated)</span>
+          </div> 
+          <div id = "item4">
             <img src={Tal} style={{  }} alt="" /> 
             <span id ="name">Tal Abravanel</span>    
             <span id="homeyear">Istanbul, Turkey</span>
@@ -1015,7 +1027,7 @@ const LeaderPage = (props) => (
             <span id="Q1">Why would a Froshie want you as their leader?</span>
             <span id="caption">rather than being their leader I will try to become friends with them and will give them an opportunity of meeting other first years from other faculties as well through my friends from other faculties who are frosh leading</span>
           </div> 
-          <div id = "item5">
+          <div id = "item4">
             <img src={Michel} style={{  }} alt="" /> 
             <span id ="name">Michel Abdel Nour</span>    
             <span id="homeyear">Beirut</span>
@@ -1026,23 +1038,6 @@ const LeaderPage = (props) => (
             <span id="caption">Beach Dayyy</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
             <span id="caption">I am super friendly and easy to talk to</span>
-          </div> 
-          <div id = "item5">
-            <img src={Joel} style={{  }} alt="" />  
-            <span id ="name">Joel Kogan</span>   
-            <span id="homeyear">Cote Saint-Luc</span>
-            <span id="homeyear">U2 Engineering</span>
-            <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">Fishing net, matches, deck of cards</span>
-            <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">I'm most excited about meeting new people and being an integral part to froshies' introductions to McGill.</span>
-            <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">Because I'm fun and put others before myself</span>
-          </div> 
-          <div id = "item5">
-            <img src={Wilson} style={{  }} alt="" />  
-            <span id ="name">Judy Park</span>   
-            
           </div> 
 
           <div id = "group">
@@ -1549,6 +1544,30 @@ const LeaderPage = (props) => (
           </div>
 
           <div id = "item4">
+            <img src={RyanZel} style={{  }} alt="" />    
+            <span id ="name">Ryan Zelnicker</span> 
+            <span id="homeyear">Montreal</span>
+            <span id="homeyear">U2 Chemical</span>
+            <span id="Q1"> What 3 things would you bring to a desert island?</span>
+            <span id="caption">My laptop, a hammock and an infinite supply of plumber's pockets</span>
+            <span id="Q1">What are you most excited about for Frosh?</span>
+            <span id="caption">PUB CRAWL!</span>
+            <span id="Q1">Why would a Froshie want you as their leader?</span>
+            <span id="caption">I'll make sure that they have the best and most memorable 4 days of the whole school year</span>
+          </div> 
+          <div id = "item4">
+            <img src={Joel} style={{  }} alt="" />  
+            <span id ="name">Joel Kogan</span>   
+            <span id="homeyear">Cote Saint-Luc</span>
+            <span id="homeyear">U2 Engineering</span>
+            <span id="Q1"> What 3 things would you bring to a desert island?</span>
+            <span id="caption">Fishing net, matches, deck of cards</span>
+            <span id="Q1">What are you most excited about for Frosh?</span>
+            <span id="caption">I'm most excited about meeting new people and being an integral part to froshies' introductions to McGill.</span>
+            <span id="Q1">Why would a Froshie want you as their leader?</span>
+            <span id="caption">Because I'm fun and put others before myself</span>
+          </div>
+          <div id = "item4">
             <img src={SamBaker} style={{  }} alt="" />    
             <span id ="name">Sam Baker</span> 
             <span id="homeyear">Calgary, AB</span>
@@ -1559,30 +1578,6 @@ const LeaderPage = (props) => (
             <span id="caption">It sounds like this year we will have Beach Day every day!</span>
             <span id="Q1">Why would a Froshie want you as their leader?</span>
             <span id="caption">My 10 second Nalgene water chug #hydrationissexy</span>
-          </div> 
-          <div id = "item4">
-            <img src={Jenny} style={{  }} alt="" /> 
-            <span id ="name">Jenny Li</span>    
-            <span id="homeyear">Abbotsford, BC</span>
-            <span id="homeyear">U2 Mechanical </span>
-            <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">snorkel gear, tanning oil and a jug of pina colada</span>
-            <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">pub crawl!!</span>
-            <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I'm REALLY responsible (especially during pub crawl)</span>
-          </div> 
-          <div id = "item4">
-            <img src={Wilson} style={{  }} alt="" /> 
-            <span id ="name">Sam Cattani</span>    
-            <span id="homeyear">Winnipeg</span>
-            <span id="homeyear">U2 ECSE</span>
-            <span id="Q1"> What 3 things would you bring to a desert island?</span>
-            <span id="caption">3 dogs</span>
-            <span id="Q1">What are you most excited about for Frosh?</span>
-            <span id="caption">Pub crawl!!!</span>
-            <span id="Q1">Why would a Froshie want you as their leader?</span>
-            <span id="caption">I'll make you drink water (pls stay hydrated)</span>
           </div> 
           <div id = "item4">
             <img src={Donya} style={{  }} alt="" />  
